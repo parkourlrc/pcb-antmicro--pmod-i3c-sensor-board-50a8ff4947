@@ -8101,16 +8101,16 @@
 		(uuid "02d29d4d-1c9c-4c88-b34f-edbf8f877504")
 	)
 	(junction
+		(at 73.66 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06dea5a1-a076-4031-b32d-67f50dc69e95")
+	)
+	(junction
 		(at 334.01 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "082459bd-69d6-454b-ab6f-a1a9fd96088d")
-	)
-	(junction
-		(at 39.37 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f4ac971-5383-4d49-b234-461e67ddeb9b")
 	)
 	(junction
 		(at 73.66 171.45)
@@ -8185,12 +8185,6 @@
 		(uuid "bb1d6005-c6c9-4077-ad5e-222788476031")
 	)
 	(junction
-		(at 82.55 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c9ca096b-0861-47aa-97d7-226727955b20")
-	)
-	(junction
 		(at 339.09 231.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8219,12 +8213,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d877ab91-f3da-4baa-acdc-0b78352a3d78")
-	)
-	(junction
-		(at 72.39 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0b3cd1f-9a56-46ca-80c7-0ea509ffe831")
 	)
 	(junction
 		(at 38.1 242.57)
@@ -8402,7 +8390,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 58.42) (xy 39.37 59.69)
+			(xy 73.66 58.42) (xy 73.66 59.69)
 		)
 		(stroke
 			(width 0)
@@ -8429,16 +8417,6 @@
 			(type default)
 		)
 		(uuid "082ace18-f334-4dba-91b0-1edfdd3e49f7")
-	)
-	(wire
-		(pts
-			(xy 72.39 59.69) (xy 72.39 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "088dc08a-e538-49d3-af28-435dd88d8bba")
 	)
 	(wire
 		(pts
@@ -9132,16 +9110,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 52.07) (xy 85.09 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41e9ac0d-8982-4bbf-8f34-3142abf319db")
-	)
-	(wire
-		(pts
 			(xy 64.77 80.01) (xy 64.77 85.09)
 		)
 		(stroke
@@ -9282,7 +9250,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 52.07) (xy 39.37 52.07)
+			(xy 38.1 52.07) (xy 49.53 52.07)
 		)
 		(stroke
 			(width 0)
@@ -9339,16 +9307,6 @@
 			(type default)
 		)
 		(uuid "53f7dd24-ccd5-4374-9b6b-68995daa8cf9")
-	)
-	(wire
-		(pts
-			(xy 72.39 52.07) (xy 72.39 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54c208ac-8883-42c6-a368-f60ffa065968")
 	)
 	(wire
 		(pts
@@ -9582,16 +9540,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 58.42) (xy 82.55 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a022e84-97b4-4f9b-86ae-ff91f3016c9e")
-	)
-	(wire
-		(pts
 			(xy 45.72 179.07) (xy 45.72 177.8)
 		)
 		(stroke
@@ -9609,16 +9557,6 @@
 			(type default)
 		)
 		(uuid "6b78c9e1-236b-4f88-b9f7-4306c8312931")
-	)
-	(wire
-		(pts
-			(xy 72.39 52.07) (xy 82.55 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b994893-fdc8-4006-9b79-c0048b05b8ac")
 	)
 	(wire
 		(pts
@@ -9932,16 +9870,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 52.07) (xy 49.53 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83f3c13c-ca12-4a66-ace0-e9f566435c9e")
-	)
-	(wire
-		(pts
 			(xy 346.71 201.93) (xy 350.52 201.93)
 		)
 		(stroke
@@ -10202,7 +10130,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 52.07) (xy 39.37 53.34)
+			(xy 73.66 52.07) (xy 73.66 53.34)
 		)
 		(stroke
 			(width 0)
@@ -11002,7 +10930,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 52.07) (xy 72.39 52.07)
+			(xy 66.04 52.07) (xy 73.66 52.07)
 		)
 		(stroke
 			(width 0)
@@ -11022,13 +10950,13 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 52.07) (xy 82.55 53.34)
+			(xy 73.66 52.07) (xy 85.09 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dbdebdf8-e98c-4eea-a2d8-b0f16e47586a")
+		(uuid "dcd80cef-d9cc-4656-b7f5-bc3de0286fb4")
 	)
 	(wire
 		(pts
@@ -13702,7 +13630,7 @@
 		(uuid "1e22c9c7-7391-4c70-950e-be3b52784e50")
 	)
 	(label "SDA_UP"
-		(at 53.34 72.39 180)
+		(at 92.71 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13742,7 +13670,7 @@
 		(uuid "2997a0e5-b0e3-4186-8422-2d8fc47d6e8f")
 	)
 	(label "SCL_UP"
-		(at 92.71 80.01 180)
+		(at 53.34 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13842,7 +13770,7 @@
 		(uuid "41fc3862-566a-4c20-ba86-151a210d4819")
 	)
 	(label "SDA_EN{slash}PULL"
-		(at 53.34 74.93 180)
+		(at 92.71 80.01 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13852,7 +13780,7 @@
 		(uuid "46b6ce69-c008-4aa9-9a58-bc9e5a5abb79")
 	)
 	(label "SCL_EN{slash}PULL"
-		(at 92.71 77.47 180)
+		(at 53.34 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14062,7 +13990,7 @@
 		(uuid "890613f0-83d6-4446-a559-a71af8e5a03b")
 	)
 	(label "SDA_IN{slash}PUSH"
-		(at 53.34 77.47 180)
+		(at 53.34 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14412,7 +14340,7 @@
 		(uuid "d81ae6ff-7c79-4ffd-8d30-6c177d9717ad")
 	)
 	(label "SCL_IN{slash}PUSH"
-		(at 92.71 74.93 180)
+		(at 92.71 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17520,277 +17448,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroCapacitors0402:C_100n_0402")
-		(at 72.39 58.42 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "265a4a60-82b6-4c00-9f3d-87baaa7f3eb6")
-		(property "Reference" "C6"
-			(at 74.93 54.6036 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_100n_0402"
-			(at 62.23 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
-			(at 59.69 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
-			(at 57.15 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 72.39 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "GRM155R61H104KE14D"
-			(at 54.61 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 52.07 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 49.53 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 46.99 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Val" "100n"
-			(at 74.93 57.1436 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Voltage" "50V"
-			(at 44.45 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X5R"
-			(at 41.91 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6389b3cd-c691-4e9d-80d1-67aa89cd5cbc")
-		)
-		(pin "1"
-			(uuid "917135d1-e722-443e-86d4-bb3e92ededcf")
-		)
-		(instances
-			(project "pmod-i3c-temperature-sensor"
-				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroTVSDiodes:ESD9X5.0ST5G")
-		(at 82.55 53.34 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "27785ce6-d6b6-44b6-b6e7-68e001300fde")
-		(property "Reference" "D4"
-			(at 85.09 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ESD9X5.0ST5G"
-			(at 67.31 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:SOD-923"
-			(at 74.93 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd9x3.3st5g-d.pdf"
-			(at 72.39 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unidirectional TVS, 30 kV,  SOD-923, 5 V, 65 pF"
-			(at 59.69 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "ON Semiconductor"
-			(at 69.85 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ESD9X5.0ST5G"
-			(at 85.09 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 64.77 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 62.23 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4336f7f0-f052-41e2-a5a0-e6b19b28096a")
-		)
-		(pin "2"
-			(uuid "99920d03-ed8f-4376-a5f0-4f88cc18ec70")
-		)
-		(instances
-			(project ""
-				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicroResistors0402:R_10k_0402")
 		(at 274.32 52.07 90)
 		(unit 1)
@@ -20246,101 +19903,6 @@
 			(project "pmod-i3c-temperature-sensor"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicropower:GND")
-		(at 82.55 59.69 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "45b21a21-d322-4112-b1c1-c70299711053")
-		(property "Reference" "#PWR057"
-			(at 73.66 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 82.55 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 73.66 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 82.55 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 73.66 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 73.66 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d0cf28cc-3bfb-49e6-b75e-9c0ab7bb7855")
-		)
-		(instances
-			(project "pmod-i3c-temperature-sensor"
-				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
-					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -23611,8 +23173,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 39.37 59.69 0)
-		(mirror y)
+		(at 73.66 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23621,7 +23182,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c61ae52-74a6-4e25-89a3-e3a84591c0ed")
 		(property "Reference" "#PWR058"
-			(at 30.48 62.23 0)
+			(at 82.55 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23632,7 +23193,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 39.37 64.77 0)
+			(at 73.66 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23641,7 +23202,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 67.31 0)
+			(at 82.55 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23652,7 +23213,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 72.39 0)
+			(at 82.55 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23663,7 +23224,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 59.69 0)
+			(at 73.66 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23671,7 +23232,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 30.48 67.31 0)
+			(at 82.55 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23682,7 +23243,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 30.48 69.85 0)
+			(at 82.55 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28809,8 +28370,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTVSDiodes:ESD9X5.0ST5G")
-		(at 39.37 53.34 90)
-		(mirror x)
+		(at 73.66 53.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28818,7 +28378,7 @@
 		(dnp no)
 		(uuid "b126b89a-c769-49a5-9f2b-84c5b5b1fb5a")
 		(property "Reference" "D1"
-			(at 36.83 54.61 90)
+			(at 76.2 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28828,7 +28388,7 @@
 			)
 		)
 		(property "Value" "ESD9X5.0ST5G"
-			(at 54.61 74.93 0)
+			(at 58.42 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28839,7 +28399,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:SOD-923"
-			(at 46.99 74.93 0)
+			(at 66.04 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28850,7 +28410,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd9x3.3st5g-d.pdf"
-			(at 49.53 74.93 0)
+			(at 63.5 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28861,7 +28421,7 @@
 			)
 		)
 		(property "Description" "Unidirectional TVS, 30 kV,  SOD-923, 5 V, 65 pF"
-			(at 62.23 74.93 0)
+			(at 50.8 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28871,7 +28431,7 @@
 			)
 		)
 		(property "Manufacturer" "ON Semiconductor"
-			(at 52.07 74.93 0)
+			(at 60.96 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28882,7 +28442,7 @@
 			)
 		)
 		(property "MPN" "ESD9X5.0ST5G"
-			(at 36.83 57.15 90)
+			(at 76.2 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28892,7 +28452,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 57.15 74.93 0)
+			(at 55.88 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28903,7 +28463,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 59.69 74.93 0)
+			(at 53.34 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31996,101 +31556,6 @@
 			(project "pmod-i3c-temperature-sensor"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicropower:GND")
-		(at 72.39 59.69 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f0ac01b6-5f9f-4513-925b-bcfc692db790")
-		(property "Reference" "#PWR048"
-			(at 63.5 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 72.39 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 63.5 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 72.39 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 63.5 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 63.5 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ba0cbe93-75ab-4ce1-8a96-5f65fb5103cd")
-		)
-		(instances
-			(project "pmod-i3c-temperature-sensor"
-				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
-					(reference "#PWR048")
 					(unit 1)
 				)
 			)
