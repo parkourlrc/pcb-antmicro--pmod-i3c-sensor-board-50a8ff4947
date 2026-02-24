@@ -8403,6 +8403,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 64.77) (xy 232.41 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07cd23e8-aebc-45d3-a7b3-26193b771ac4")
+	)
+	(wire
+		(pts
 			(xy 336.55 199.39) (xy 341.63 199.39)
 		)
 		(stroke
@@ -10963,6 +10973,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 198.12) (xy 232.41 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d956ed3e-d115-47b7-84d2-425f466fcc31")
+	)
+	(wire
+		(pts
 			(xy 365.76 50.8) (xy 367.03 50.8)
 		)
 		(stroke
@@ -11183,16 +11203,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 64.77) (xy 232.41 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec8acb7f-2221-44ea-bc1f-fb235a58bd2a")
-	)
-	(wire
-		(pts
 			(xy 334.01 45.72) (xy 339.09 45.72)
 		)
 		(stroke
@@ -11290,16 +11300,6 @@
 			(type default)
 		)
 		(uuid "f3fb632c-ee3a-4652-b236-56b18ec81a82")
-	)
-	(wire
-		(pts
-			(xy 219.71 198.12) (xy 232.41 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f51d1332-7e62-438e-a36d-37f645cc93b5")
 	)
 	(wire
 		(pts
@@ -13633,7 +13633,7 @@
 		(uuid "03678efd-56a0-469c-bd64-55bd15b217ca")
 	)
 	(label "SDA_DOWN"
-		(at 219.71 64.77 0)
+		(at 220.98 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14413,7 +14413,7 @@
 		(uuid "dbc7efa2-6dfb-48da-8790-d1fdccff4354")
 	)
 	(label "SCL_DOWN"
-		(at 219.71 198.12 0)
+		(at 220.98 198.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16004,6 +16004,121 @@
 			(project "pmod-i3c-temperature-sensor"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
+		(at 220.98 198.12 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0d4c5c6a-7043-42e1-a9a5-2dfce12d13fe")
+		(property "Reference" "TP5"
+			(at 215.9 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 205.74 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
+			(at 205.74 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 205.74 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 220.98 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 220.98 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 205.74 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 205.74 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3da3f527-acaa-44bf-8eed-cb4b1273450f")
+		)
+		(instances
+			(project "pmod-i3c-temperature-sensor"
+				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -23824,9 +23939,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "6d6ab0bc-ba0f-4a2f-899c-a556a3fa6e4d")
 		(property "Reference" "R9"
-			(at 232.41 195.58 0)
+			(at 234.95 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23920,7 +24036,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 236.22 195.58 0)
+			(at 234.95 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28014,6 +28130,121 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
+		(at 220.98 64.77 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab8535a4-112d-4458-b991-e0b1253ab727")
+		(property "Reference" "TP4"
+			(at 215.9 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 205.74 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
+			(at 205.74 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 205.74 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 220.98 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 220.98 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 205.74 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 205.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00e98bd1-634e-42a0-9f15-e94706105dd1")
+		)
+		(instances
+			(project "pmod-i3c-temperature-sensor"
+				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "antmicropower:GND")
 		(at 331.47 124.46 0)
@@ -28375,9 +28606,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b116b18f-f8b6-4f25-873f-a7d0150904b2")
 		(property "Reference" "R15"
-			(at 232.41 62.23 0)
+			(at 234.95 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28471,7 +28703,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 236.22 62.23 0)
+			(at 234.95 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
