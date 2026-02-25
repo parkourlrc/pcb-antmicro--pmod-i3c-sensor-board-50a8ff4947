@@ -624,7 +624,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/WLP-4_0.82x0.82mm.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6891,7 +6891,7 @@
 		(path "/71bd58b3-7779-4209-98d2-ddca1f529e39")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_poly
 			(pts
 				(xy -0.925 -0.47) (xy 0.925 -0.47) (xy 0.925 0.47) (xy -0.925 0.47)
@@ -8114,6 +8114,19 @@
 				)
 			)
 		)
+		(property "DNP" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbd835dc-7c06-4134-95bf-743cb592cc24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5fbf1593-c743-453c-82f7-2ec308b03ff7")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
@@ -8325,7 +8338,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R12"
-			(at -0.1191 1.318836 0)
+			(at 0.9509 2.648836 90)
 			(layer "F.SilkS")
 			(uuid "ca2e6948-0252-437e-bcb5-ad6fe8f1f793")
 			(effects
@@ -9490,7 +9503,7 @@
 		(path "/17b1a22d-4a93-4a2a-9041-50681c210ee1")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_poly
 			(pts
 				(xy -0.925 -0.47) (xy 0.925 -0.47) (xy 0.925 0.47) (xy -0.925 0.47)
@@ -9701,7 +9714,7 @@
 		(descr "USON-10 2.5x1mm_ Pitch 0.5mm")
 		(tags "USON-10 2.5x1mm Pitch 0.5mm")
 		(property "Reference" "U7"
-			(at 0.685 -0.19 0)
+			(at -0.825 2.37 0)
 			(layer "F.SilkS")
 			(uuid "3ff95efd-c2d7-4700-a347-66f47b465e73")
 			(effects
@@ -14675,7 +14688,7 @@
 		(uuid "3ae4e1fd-662f-4d41-a5d9-408ad2e0b6ee")
 		(at 128.196145 95.126 90)
 		(property "Reference" "D1"
-			(at 0.626 -1.06 0)
+			(at -0.774 -0.506145 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b35f9c17-e83a-44a7-8bc6-c1cfceb08cbc")
@@ -15639,7 +15652,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R2"
-			(at -1.650454 -0.438207 0)
+			(at -2.460454 0.141793 0)
 			(layer "F.SilkS")
 			(uuid "ffc01bd5-839c-45bd-a313-1eb6144a29e2")
 			(effects
@@ -15780,7 +15793,7 @@
 		(path "/477fffb8-89e0-4a20-99bc-cd9a3edbe7c9")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_poly
 			(pts
 				(xy -0.925 -0.47) (xy 0.925 -0.47) (xy 0.925 0.47) (xy -0.925 0.47)
@@ -15991,7 +16004,7 @@
 		(at 126.455 83.8 -90)
 		(descr "Footprint based on: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10129382.pdf")
 		(property "Reference" "J3"
-			(at -2 0.655 180)
+			(at -1.01 0.655 180)
 			(layer "F.SilkS")
 			(uuid "27266ae7-6184-42a7-ab52-ab8d280a4514")
 			(effects
@@ -19317,7 +19330,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R15"
-			(at -3.108836 0.99536 90)
+			(at -3.108836 0.44536 90)
 			(layer "F.SilkS")
 			(uuid "99ea2890-ae8d-40c0-a0c0-e2ff71df478b")
 			(effects
@@ -19448,6 +19461,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "37a6a36c-3e9b-421c-b35b-2b5356c13155")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b38f0ee0-115f-4018-a135-c9df033f7f44")
 			(effects
 				(font
 					(size 1 1)
@@ -19832,7 +19858,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R7"
-			(at 1.07 1.89 90)
+			(at -0.53 -0.47 180)
 			(layer "F.SilkS")
 			(uuid "3fc571f9-0177-4279-9617-add186bc4a74")
 			(effects
@@ -19973,7 +19999,7 @@
 		(path "/d3e26a79-2689-4dfc-9c77-fd8160a4a9f6")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_poly
 			(pts
 				(xy -0.925 -0.47) (xy 0.925 -0.47) (xy 0.925 0.47) (xy -0.925 0.47)
@@ -20302,6 +20328,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7ba2988-8b87-42c0-a440-02aa3e110a35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4fbac3c-ffdd-4a28-9193-c0b56d81d86d")
 			(effects
 				(font
 					(size 1 1)
@@ -26798,7 +26837,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R3"
-			(at 0.005 1.52 0)
+			(at 0.47 1.52 0)
 			(layer "F.SilkS")
 			(uuid "3e8b32c2-eced-44f4-9ede-81b4f441c3e2")
 			(effects
@@ -26916,6 +26955,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "81ee70f1-1d29-42de-8f2c-e4026a1fd871")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9aa70efb-cdc6-4f18-bd9b-cc46ba98cb1c")
 			(effects
 				(font
 					(size 1 1)
@@ -30370,7 +30422,7 @@
 		(uuid "603ad6d0-fab7-4dea-a474-fd0dc518d0a2")
 		(at 139.43164 88.172164 180)
 		(property "Reference" "Q4"
-			(at 0.98164 0.022164 0)
+			(at 0.98164 -0.097836 0)
 			(layer "F.SilkS")
 			(uuid "126cde48-a973-4afb-8f53-a27c93a5a4dc")
 			(effects
@@ -50383,7 +50435,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R19"
-			(at -3.108836 1.04536 90)
+			(at -3.108836 0.49536 90)
 			(layer "F.SilkS")
 			(uuid "032cd0fa-10ba-413e-8992-358689c8d322")
 			(effects
@@ -50501,6 +50553,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0fab42c0-c3b5-497b-81d0-ce703dfca669")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9cfc4f2e-a9c6-4fa6-a30c-77431bc5641c")
 			(effects
 				(font
 					(size 1 1)
@@ -51984,7 +52049,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/sot23-5.step"
 			(offset
-				(xyz 0.0025 0 0.5)
+				(xyz 0.0025 -0 0.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -52119,6 +52184,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7565d6a9-8ec1-4067-9717-4c333d6b5520")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c9241c1-b668-4176-ade6-1b7b951c95c1")
 			(effects
 				(font
 					(size 1 1)
@@ -59751,7 +59829,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R24"
-			(at -1.103369 -0.310265 0)
+			(at -1.753369 -0.330265 0)
 			(layer "F.SilkS")
 			(uuid "3ed6aa87-970b-4687-9b15-b2ded28ce138")
 			(effects
@@ -59869,6 +59947,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e987d56-31f1-411c-8fec-cde1b6bc1548")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2170955e-8d14-4b7c-91a9-248aea11fab3")
 			(effects
 				(font
 					(size 1 1)
@@ -62559,7 +62650,7 @@
 		(uuid "77f80240-1e3c-4385-bbfa-c77cf5dee6ac")
 		(at 129.020671 93.2 90)
 		(property "Reference" "Q5"
-			(at 0 -2.402 180)
+			(at 0.29 -1.950671 180)
 			(layer "F.SilkS")
 			(uuid "c19aed99-be17-4c7d-95eb-7f15cad3773b")
 			(effects
@@ -70614,6 +70705,19 @@
 				)
 			)
 		)
+		(property "DNP" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61c49184-c5b9-47aa-9e8c-681e5e93a451")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6d6ab0bc-ba0f-4a2f-899c-a556a3fa6e4d")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
@@ -70828,7 +70932,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R22"
-			(at 1.216488 0.412444 0)
+			(at 0.806488 0.47 0)
 			(layer "F.SilkS")
 			(uuid "fc5c7b1d-32fd-476b-a9de-9fb0e701ce28")
 			(effects
@@ -71654,7 +71758,7 @@
 		(path "/80811476-a55d-49a1-98e3-10e11bb72781")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files dnp)
+		(attr smd dnp)
 		(fp_rect
 			(start -0.925 -0.47)
 			(end 0.925 0.47)
@@ -79400,6 +79504,19 @@
 				)
 			)
 		)
+		(property "DNP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ea09da2-019d-4d82-a4c1-10684fde13c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/377ea7d7-bc2d-485c-bdf2-5f0a06ec3696")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
@@ -79963,7 +80080,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R13"
-			(at -0.26536 -0.443484 90)
+			(at -0.40536 -0.493484 270)
 			(layer "F.SilkS")
 			(uuid "e75c32dd-627f-45a9-b71b-44135f377f3a")
 			(effects
@@ -80091,7 +80208,7 @@
 		(path "/86b5e2c0-596d-4c06-b609-18a95e6b066b")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_poly
 			(pts
 				(xy -0.925 -0.47) (xy -0.925 0.47) (xy 0.925 0.47) (xy 0.925 -0.47)
@@ -83886,7 +84003,7 @@
 		(descr "USON-10 2.5x1mm_ Pitch 0.5mm")
 		(tags "USON-10 2.5x1mm Pitch 0.5mm")
 		(property "Reference" "U8"
-			(at -0.815 -1.7 0)
+			(at -0.725 2.4 0)
 			(layer "F.SilkS")
 			(uuid "94482384-1514-4666-92a9-d748469172fd")
 			(effects
@@ -87282,7 +87399,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/Bosch_WLCSP-6_0.84x1.18mm.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -94501,6 +94618,19 @@
 				)
 			)
 		)
+		(property "DNP" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6960f269-2da0-4f0f-b04f-8212a8a81a78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d32a0f4e-5fa5-494d-97f8-0bb45812439a")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
@@ -95066,7 +95196,7 @@
 		(uuid "a2f673b3-f667-47f5-971a-89de49e8b116")
 		(at 148.649 84.07)
 		(property "Reference" "U1"
-			(at 2.051 -1.27 0)
+			(at 2.161 -1.51 0)
 			(layer "F.SilkS")
 			(uuid "b2860ae3-715e-4551-8a9b-2f7902dff4c8")
 			(effects
@@ -101614,6 +101744,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd400a60-1c40-4a44-a38f-bfae2f7d3561")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c462fcf6-c82d-4828-a48a-0d1fce5a1051")
 			(effects
 				(font
 					(size 1 1)
@@ -114887,10 +115030,23 @@
 				)
 			)
 		)
+		(property "DNP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "460018e4-d731-44b7-8404-ecb195e7546d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/88191a18-7fb6-449f-9132-5a12caeaff39")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files dnp)
+		(attr smd dnp)
 		(fp_rect
 			(start -0.925 -0.47)
 			(end 0.925 0.47)
@@ -117710,6 +117866,19 @@
 				)
 			)
 		)
+		(property "DNP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1935f01f-493c-4275-96ae-29015e2ea560")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e3d07c47-89a2-4312-b751-ae0f1279e5e0")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
@@ -118062,7 +118231,7 @@
 		(path "/2dc1c4b2-6c5c-4360-bd10-55c66320cf02")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files dnp)
+		(attr smd dnp)
 		(fp_rect
 			(start -0.925 -0.47)
 			(end 0.925 0.47)
@@ -118270,7 +118439,7 @@
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C1"
-			(at -2.22 0.38 90)
+			(at -2.33 0.48 90)
 			(layer "F.SilkS")
 			(uuid "5253b628-1a59-4912-b92b-2df81293bf24")
 			(effects
@@ -125347,7 +125516,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R14"
-			(at 0.016608 -0.670716 270)
+			(at 0.086608 -0.740716 270)
 			(layer "F.SilkS")
 			(uuid "39210597-8a77-49f7-8fb9-4d58f0326a3d")
 			(effects
@@ -125475,7 +125644,7 @@
 		(path "/06bebbc4-7e54-45b8-84bb-6d8f35139898")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom dnp)
+		(attr smd exclude_from_bom dnp)
 		(fp_rect
 			(start -0.925 -0.47)
 			(end 0.925 0.47)
@@ -125824,7 +125993,7 @@
 		(path "/a75b7a09-36aa-40c8-b1c1-4409c3578247")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files dnp)
+		(attr smd dnp)
 		(fp_rect
 			(start -0.925 -0.47)
 			(end 0.925 0.47)
@@ -132924,7 +133093,7 @@
 		(uuid "ddfd0b72-871b-44d5-8e5d-19f1b0d1ec20")
 		(at 132.58 90.370001 180)
 		(property "Reference" "Q1"
-			(at 0.68 -0.129999 180)
+			(at -0.03 2.050001 270)
 			(layer "F.SilkS")
 			(uuid "0f7ce170-5709-4c45-94a3-6abe8ae9c6ad")
 			(effects
@@ -133833,7 +134002,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R4"
-			(at -0.679682 -0.37 0)
+			(at -2.259682 0.4 0)
 			(layer "F.SilkS")
 			(uuid "af899997-767e-4390-8a60-320faf0ff9f0")
 			(effects
@@ -133951,6 +134120,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d58dd6e-beba-40cb-91cc-848ddc24cbb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DNP" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "632e87a2-2d69-406d-b38b-edc9999c0ce6")
 			(effects
 				(font
 					(size 1 1)
@@ -149844,7 +150026,7 @@
 		(path "/454b0b48-9c70-43b1-929e-2e7506b370e0")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
-		(attr smd exclude_from_pos_files dnp)
+		(attr smd dnp)
 		(fp_rect
 			(start -0.925 -0.47)
 			(end 0.925 0.47)
@@ -150106,7 +150288,7 @@
 		(uuid "22ec35c5-2cfc-42fc-96f7-5a634a4a1613")
 	)
 	(gr_line
-		(start 134.35 92.4)
+		(start 134.68 92.73)
 		(end 134.15 92.2)
 		(stroke
 			(width 0.15)
@@ -150378,12 +150560,12 @@
 	(gr_rect
 		(start 120 80)
 		(end 153.02 100.32)
-		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
+		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "38455ee2-e946-427b-ba61-c561cadb663d")
 	)
