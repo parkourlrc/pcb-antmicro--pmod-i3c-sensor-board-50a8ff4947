@@ -8698,10 +8698,8 @@
 		(uuid "faaac593-de42-4890-8258-40aeeffdbdf7")
 	)
 	(text_box " IN | EN | UP  | DOWN | OUTPUT\n X  | H  | H   | L    | Z\n X  | H  | L   | L    | PULL-UP 2K\n H  | L  | L   | L    | OPEN-DRAIN LOW\n H  | L  | H   | L    | PUSH-PULL LOW\n L  | L  | H   | L    | PUSH-PULL HIGH"
-		(exclude_from_sim no)
 		(at 137.16 111.76 0)
 		(size 46.99 13.97)
-		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
 			(type default)
@@ -8719,10 +8717,8 @@
 		(uuid "15b9d8b1-df13-46cb-bc81-b9dc60fe4efe")
 	)
 	(text_box " PUSH | PULL | UP | DOWN | OUTPUT\n H    | L    | H  | L    | Z\n H    | L    | L  | L    | PULL-UP 2K\n H    | H    | L  | L    | OPEN-DRAIN LOW\n H    | H    | H  | L    | PUSH-PULL LOW\n L    | L    | H  | L    | PUSH-PULL HIGH"
-		(exclude_from_sim no)
 		(at 137.16 261.62 0)
 		(size 46.99 13.97)
-		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
 			(type default)
@@ -23786,14 +23782,6 @@
 				)
 				(justify left bottom)
 				(hide yes)
-			)
-		)
-		(property "DNP" ""
-			(at 63.5 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
