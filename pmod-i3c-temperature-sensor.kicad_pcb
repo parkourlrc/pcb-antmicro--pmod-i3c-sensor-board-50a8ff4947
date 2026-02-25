@@ -7976,7 +7976,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R21"
-			(at -5.303478 0.580733 180)
+			(at -5.373478 0.580733 180)
 			(layer "F.SilkS")
 			(uuid "e51560ca-6c6b-4d18-b60d-29496025f025")
 			(effects
@@ -30420,7 +30420,7 @@
 	(footprint "antmicro-footprints:SOT-563"
 		(layer "F.Cu")
 		(uuid "603ad6d0-fab7-4dea-a474-fd0dc518d0a2")
-		(at 139.43164 88.172164 180)
+		(at 139.519301 88.172164 180)
 		(property "Reference" "Q4"
 			(at 0.98164 -0.097836 0)
 			(layer "F.SilkS")
@@ -150398,8 +150398,8 @@
 		(uuid "794b27bd-c52f-4075-b0b3-91a5466fe3d7")
 	)
 	(gr_line
-		(start 142.5 87.8)
-		(end 140.6 87.8)
+		(start 142.58 87.8)
+		(end 140.75 87.8)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150438,8 +150438,8 @@
 		(uuid "9c79b30d-94bf-439e-8a19-8757130eda4c")
 	)
 	(gr_line
-		(start 142.5 87.8)
-		(end 142.5 87.4)
+		(start 142.58 87.8)
+		(end 142.58 87.4)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150478,7 +150478,7 @@
 		(uuid "b2457dea-bee4-4a34-b80d-49bd3d141889")
 	)
 	(gr_line
-		(start 138.162054 86.799503)
+		(start 138.171522 86.799503)
 		(end 140.09964 86.799503)
 		(stroke
 			(width 0.15)
@@ -150498,7 +150498,7 @@
 		(uuid "e7bd1848-2785-4ad6-872e-968cc0b7107d")
 	)
 	(gr_line
-		(start 142.5 87.4)
+		(start 142.58 87.4)
 		(end 144.45 87.4)
 		(stroke
 			(width 0.15)
@@ -150509,7 +150509,7 @@
 	)
 	(gr_line
 		(start 140.4 85.8)
-		(end 140.4 87.3)
+		(end 140.4 86.799503)
 		(stroke
 			(width 0.15)
 			(type default)
