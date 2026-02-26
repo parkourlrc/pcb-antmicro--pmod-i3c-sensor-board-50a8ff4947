@@ -68,19 +68,15 @@
           "Acceptable logo overlap"
         ],
         [
-          "courtyards_overlap|147745000|93413055|03cd5e77-e348-4fd7-bf79-6f240010cab3|4eabd88b-29e2-4625-9e84-8d04b528f240",
-          "Acceptable logo overlap"
+          "courtyards_overlap|147745000|93399463|03cd5e77-e348-4fd7-bf79-6f240010cab3|4eabd88b-29e2-4625-9e84-8d04b528f240",
+          ""
         ],
         [
           "courtyards_overlap|147990000|85985000|922128aa-f0ef-4490-a05a-887bd176a800|fd7c8b5b-3ec8-4379-ab22-8d1b82dd327b",
           "Pull-up / Pull-down selector"
         ],
         [
-          "courtyards_overlap|149205000|93413055|00d655c9-56ba-42f5-904e-2706154c550e|03cd5e77-e348-4fd7-bf79-6f240010cab3",
-          "Logo / IC acceptable courtyard overlap"
-        ],
-        [
-          "courtyards_overlap|150340000|93413055|03cd5e77-e348-4fd7-bf79-6f240010cab3|61967cf6-533b-4f40-8081-b133c9a9287b",
+          "courtyards_overlap|149980000|93399463|00d655c9-56ba-42f5-904e-2706154c550e|03cd5e77-e348-4fd7-bf79-6f240010cab3",
           ""
         ],
         [
@@ -88,8 +84,24 @@
           "Pull-up / Pull-down selector"
         ],
         [
-          "courtyards_overlap|151365000|93413055|03cd5e77-e348-4fd7-bf79-6f240010cab3|f1dad71d-cdff-4a45-a443-8e4f2c8052e9",
-          "Acceptable logo overlap"
+          "courtyards_overlap|151552360|93399463|03cd5e77-e348-4fd7-bf79-6f240010cab3|61967cf6-533b-4f40-8081-b133c9a9287b",
+          ""
+        ],
+        [
+          "courtyards_overlap|152577360|93399463|03cd5e77-e348-4fd7-bf79-6f240010cab3|f1dad71d-cdff-4a45-a443-8e4f2c8052e9",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|145744546|96666463|03cd5e77-e348-4fd7-bf79-6f240010cab3|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|120000000|82430000|38455ee2-e946-427b-ba61-c561cadb663d|ae609b56-7ae4-448d-bb9e-b41aea61a767",
+          ""
+        ],
+        [
+          "silk_edge_clearance|120000000|97870000|38455ee2-e946-427b-ba61-c561cadb663d|bf273b87-2d7e-406d-9b2e-c1d46fa195fb",
+          ""
         ]
       ],
       "meta": {
