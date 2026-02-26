@@ -15660,7 +15660,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "3fbd0e6f-0f1a-484c-8576-21f2fb975d6e")
-		(at 126.455 83.8 -90)
+		(at 126.455 83.81 -90)
 		(descr "Footprint based on: https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10129382.pdf")
 		(property "Reference" "J3"
 			(at -1.9 -0.645 0)
