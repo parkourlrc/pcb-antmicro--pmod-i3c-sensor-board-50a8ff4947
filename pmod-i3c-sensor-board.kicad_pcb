@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "PMOD I3C Temperature Sensor")
+		(title "PMOD I3C Sensor Board")
 		(date "2026-02-26")
 		(rev "1.0.0")
 		(company "Antmicro Ltd")
@@ -313,7 +313,7 @@
 		)
 		(path "/d3827ef9-ba77-41c4-9249-1234cf2882e1")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_circle
 			(center 0.2 0.2)
@@ -740,7 +740,7 @@
 		)
 		(path "/8095cd04-c88f-4ae8-8bc1-49d3afa66be6")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 0.4)
@@ -6888,7 +6888,7 @@
 		)
 		(path "/71bd58b3-7779-4209-98d2-ddca1f529e39")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_poly
 			(pts
@@ -8114,7 +8114,7 @@
 		)
 		(path "/d9eada78-e539-41fd-b08c-f9e38c6a07d0")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 -0.4)
@@ -8496,7 +8496,7 @@
 		)
 		(path "/5fbf1593-c743-453c-82f7-2ec308b03ff7")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -8832,7 +8832,7 @@
 		)
 		(path "/fe850a5b-3ad3-44ac-8b22-f3ab767c3dc8")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -9181,7 +9181,7 @@
 		)
 		(path "/c03ca7a8-5173-4ca9-a79b-608b1c5f3596")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 -0.4)
@@ -9537,7 +9537,7 @@
 		)
 		(path "/4051e1db-de72-4910-8361-9809c80e2226")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -9886,7 +9886,7 @@
 		)
 		(path "/17b1a22d-4a93-4a2a-9041-50681c210ee1")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_poly
 			(pts
@@ -10199,7 +10199,7 @@
 		)
 		(path "/82c1fdec-bea0-40f2-aaf2-7eda85996d74")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.498 1.398)
@@ -13257,7 +13257,7 @@
 		)
 		(path "/66fb6b38-bca0-49bf-844d-d1f75ae34012")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -13565,7 +13565,7 @@
 		)
 		(path "/8d5bd3ce-f8a3-4db7-8a0d-4cda7ffebe6d")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.25 -0.5)
@@ -14510,7 +14510,7 @@
 		)
 		(path "/65effc36-514f-483b-91dc-52177cc5f86f")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -14820,7 +14820,7 @@
 		)
 		(path "/b126b89a-c769-49a5-9f2b-84c5b5b1fb5a")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.5 -0.4)
@@ -15472,7 +15472,7 @@
 		)
 		(path "/477fffb8-89e0-4a20-99bc-cd9a3edbe7c9")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_poly
 			(pts
@@ -15787,7 +15787,7 @@
 		)
 		(path "/2521f7d7-337a-4a45-ae43-5a99cf0b6f59")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.37 6.9)
@@ -19161,7 +19161,7 @@
 		)
 		(path "/b116b18f-f8b6-4f25-873f-a7d0150904b2")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -19510,7 +19510,7 @@
 		)
 		(path "/69fb5b3e-c021-4dc2-acec-9ee3b7c73294")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 -0.4)
@@ -19838,7 +19838,7 @@
 		)
 		(path "/b8ecf0e6-105a-4336-8235-313efff8f418")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -20004,7 +20004,7 @@
 		)
 		(path "/2efededd-a053-4c72-8159-3f84cab6889f")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -20211,7 +20211,7 @@
 		)
 		(path "/e770c8f6-cca1-42cd-975c-538d27c9929e")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 -0.4)
@@ -20580,7 +20580,7 @@
 		)
 		(path "/d3e26a79-2689-4dfc-9c77-fd8160a4a9f6")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_poly
 			(pts
@@ -20932,7 +20932,7 @@
 		)
 		(path "/24ff45da-8eab-48e2-b0ee-98ec9e3f31a1")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -21243,7 +21243,7 @@
 		)
 		(path "/0fc889e8-73b5-4b76-a2fc-13eeebb82547")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 0.4)
@@ -27391,7 +27391,7 @@
 		)
 		(path "/516f029d-f11c-4f7a-9850-e90180d88b58")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -27717,7 +27717,7 @@
 		)
 		(path "/77db6e13-7179-408c-a124-92eae295d336")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.18 -0.319)
@@ -30937,7 +30937,7 @@
 		)
 		(path "/c41a7777-732c-48e2-b717-b777182b4b97")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.776 0.972)
@@ -43559,7 +43559,7 @@
 		)
 		(path "/20ddab91-9e30-4ce6-b2be-1af62b177f2e")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -50636,7 +50636,7 @@
 		)
 		(path "/6b86fcce-c013-42ce-98c1-6ad364fab28c")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -50985,7 +50985,7 @@
 		)
 		(path "/841d5edb-56d2-4242-883d-b5b534b9cb2b")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 -0.4)
@@ -51313,7 +51313,7 @@
 		)
 		(path "/90b8fadf-d618-4d60-aa6c-44a7b0638553")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -51479,7 +51479,7 @@
 		)
 		(path "/67b08679-3ac9-47b8-9b42-18eb02213c07")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -1.6)
@@ -52636,7 +52636,7 @@
 		)
 		(path "/2bb4d9af-9541-428b-9526-47f83ac36260")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -52972,7 +52972,7 @@
 		)
 		(path "/6e88c897-d93c-493b-8c1c-1689d3633a5f")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -53321,7 +53321,7 @@
 		)
 		(path "/5d72750f-31d8-4078-8dc4-6bbd5940dc82")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -60398,7 +60398,7 @@
 		)
 		(path "/fd1b5911-faab-4583-9397-ebbaa4459d0a")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -60708,7 +60708,7 @@
 		)
 		(path "/4182e8af-b55f-4e1e-b2c6-7e68de1b8973")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.15 0.7)
@@ -63178,7 +63178,7 @@
 		)
 		(path "/88dceb0d-28e1-4ced-9cc1-ddc30c398ba6")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.277 -0.551)
@@ -64056,7 +64056,7 @@
 		)
 		(path "/d34c9d9a-b4ac-4f01-93ef-6ed7f436f0be")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -71146,7 +71146,7 @@
 		)
 		(path "/6d6ab0bc-ba0f-4a2f-899c-a556a3fa6e4d")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -71485,7 +71485,7 @@
 		)
 		(path "/fafffbcd-6210-4953-b19c-84e075692210")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -71834,7 +71834,7 @@
 		)
 		(path "/052279fc-86cf-47f8-a63f-ea068a5bbcce")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -72186,7 +72186,7 @@
 		)
 		(path "/80811476-a55d-49a1-98e3-10e11bb72781")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files dnp)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -72522,7 +72522,7 @@
 		)
 		(path "/01dd52a6-874b-41ee-9922-860619d6a997")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -72871,7 +72871,7 @@
 		)
 		(path "/5158ad14-9b12-40e8-aee7-ad43831f9467")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -79948,7 +79948,7 @@
 		)
 		(path "/377ea7d7-bc2d-485c-bdf2-5f0a06ec3696")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -80300,7 +80300,7 @@
 		)
 		(path "/1f2ea436-69ea-4dd0-b5ae-677586f24045")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -80636,7 +80636,7 @@
 		)
 		(path "/86b5e2c0-596d-4c06-b609-18a95e6b066b")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_poly
 			(pts
@@ -80962,7 +80962,7 @@
 		)
 		(path "/6832482e-93e5-48cd-b708-082f81ac31c4")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.18 -0.319)
@@ -84223,7 +84223,7 @@
 		)
 		(path "/f6253c41-b741-4d67-a9a5-16c303bc23e8")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -84533,7 +84533,7 @@
 		)
 		(path "/7700c30a-634f-4211-92de-59e7e8f87483")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.498 1.398)
@@ -87566,7 +87566,7 @@
 		)
 		(path "/45b6dfbf-a80e-4eff-bb51-4fde7b47937a")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_circle
 			(center -0.62 -0.79)
@@ -87985,7 +87985,7 @@
 		)
 		(path "/f8c4d227-d99d-4cfe-a87e-c41b2881c037")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -95062,7 +95062,7 @@
 		)
 		(path "/d32a0f4e-5fa5-494d-97f8-0bb45812439a")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -95414,7 +95414,7 @@
 		)
 		(path "/18c575dc-1e98-4aab-9f36-c10602f61348")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -95727,7 +95727,7 @@
 		(property ki_fp_filters "TSSOP8_P3T1755DPZ_NXP TSSOP8_P3T1755DPZ_NXP-M TSSOP8_P3T1755DPZ_NXP-L")
 		(path "/f27bb9e4-700b-4116-a8d8-60bd93648286")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.55 1.561)
@@ -101148,7 +101148,7 @@
 		)
 		(path "/25cfa3d2-d8c2-45c2-af65-836de2d0150c")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -101484,7 +101484,7 @@
 		)
 		(path "/6069c95b-d449-4ded-b950-2f4fe2df06aa")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -101846,7 +101846,7 @@
 		)
 		(path "/61d1b211-8264-4c90-972c-4b4ba1e298d1")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -102154,7 +102154,7 @@
 		)
 		(path "/3749ac7c-37ff-4fa9-99af-2ba5d9164bee")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -102320,7 +102320,7 @@
 		)
 		(path "/2fe02a9b-8a48-4f3a-bdbd-893710b2508a")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.776 0.972)
@@ -114929,7 +114929,7 @@
 		)
 		(path "/a2bafd6c-0216-437a-9427-a0cc2733ac06")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -115278,7 +115278,7 @@
 		)
 		(path "/88191a18-7fb6-449f-9132-5a12caeaff39")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files dnp)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -115627,7 +115627,7 @@
 		)
 		(path "/0ab8632b-4e0c-452b-96c6-0ed1e818a44a")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.15 -0.4)
@@ -115957,7 +115957,7 @@
 		)
 		(path "/97043005-1ef0-4654-96dd-a0306a5c78e2")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.15 0.7)
@@ -118481,7 +118481,7 @@
 		)
 		(path "/e3d07c47-89a2-4312-b751-ae0f1279e5e0")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -118830,7 +118830,7 @@
 		)
 		(path "/2dc1c4b2-6c5c-4360-bd10-55c66320cf02")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files dnp)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -119179,7 +119179,7 @@
 		)
 		(path "/bbde69cb-769d-4be0-9abf-64ca97de79c9")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -126243,7 +126243,7 @@
 		)
 		(path "/06bebbc4-7e54-45b8-84bb-6d8f35139898")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -126592,7 +126592,7 @@
 		)
 		(path "/a75b7a09-36aa-40c8-b1c1-4409c3578247")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files dnp)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -133628,7 +133628,7 @@
 		)
 		(path "/c38848b0-8e59-4d71-8836-188f77fd6d07")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.25 -0.5)
@@ -134573,7 +134573,7 @@
 		)
 		(path "/7690f493-a174-4af1-a1c2-0105cc40324e")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -134912,7 +134912,7 @@
 		)
 		(path "/f24153c6-3d48-495b-a60d-73b1e6eec3d9")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -135261,7 +135261,7 @@
 		)
 		(path "/00add2a0-6f11-456d-a3b5-6d88be3f7298")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -142338,7 +142338,7 @@
 		)
 		(path "/f8967a46-f263-4264-81bc-2c1d4098ad39")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -149402,7 +149402,7 @@
 		)
 		(path "/c2027d4b-c6b8-46b5-a4da-47a8939f98dc")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -149751,7 +149751,7 @@
 		)
 		(path "/6c320f79-1aac-4bdd-bcff-4e0f63593928")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -150103,7 +150103,7 @@
 		)
 		(path "/454b0b48-9c70-43b1-929e-2e7506b370e0")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr smd exclude_from_pos_files dnp)
 		(fp_rect
 			(start -0.925 -0.47)
@@ -150418,7 +150418,7 @@
 		)
 		(path "/b8c35268-c5b9-4b3d-9e25-8a6ab53b4f25")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -150591,7 +150591,7 @@
 		)
 		(path "/7a5a46ed-b24f-4335-8b92-263b31c1ce24")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -150764,7 +150764,7 @@
 		)
 		(path "/80cfbb2f-5554-42c9-b7bc-44aa6260dd93")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -150937,7 +150937,7 @@
 		)
 		(path "/b51c66b7-b13e-414f-97ed-ef5130132144")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -151110,7 +151110,7 @@
 		)
 		(path "/162c6f49-da9d-4b23-969d-eb505469095f")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -151283,7 +151283,7 @@
 		)
 		(path "/098d7dfc-2ed2-4e96-94e1-42894f2039d1")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -151456,7 +151456,7 @@
 		)
 		(path "/a5f38546-cec7-4e34-aac2-1429177065a8")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -151629,7 +151629,7 @@
 		)
 		(path "/ebc64dc4-b1f1-4691-9512-9f7507977294")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -151802,7 +151802,7 @@
 		)
 		(path "/98da8b40-d614-4536-b2a8-5f010e95643d")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -151975,7 +151975,7 @@
 		)
 		(path "/9b5fb366-037f-4850-9031-f3ad990d6387")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -152148,7 +152148,7 @@
 		)
 		(path "/2b34d80b-f9d4-4fc7-bc09-88b0ddfd8ad0")
 		(sheetname "/")
-		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)

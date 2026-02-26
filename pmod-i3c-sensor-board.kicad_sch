@@ -5,7 +5,7 @@
 	(uuid "612c5d43-2e76-4008-b7aa-7a9340e5e5ba")
 	(paper "A3")
 	(title_block
-		(title "PMOD I3C Temperature Sensor")
+		(title "PMOD I3C Sensor Board")
 		(date "2026-02-26")
 		(rev "1.0.0")
 		(company "Antmicro Ltd")
@@ -13552,7 +13552,7 @@
 			(uuid "9c929fb1-04fe-491f-8ef2-b63054e35ad7")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "C3")
 					(unit 1)
@@ -13887,7 +13887,7 @@
 			(uuid "bc8e9208-dcab-4638-b7cc-8b194e756f26")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR053")
 					(unit 1)
@@ -13954,7 +13954,7 @@
 			(uuid "e699052a-0532-4c48-b876-257d56662b6c")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR018")
 					(unit 1)
@@ -14204,7 +14204,7 @@
 			(uuid "6d2733f9-03fc-4127-a7f0-89606ff55a3d")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR052")
 					(unit 1)
@@ -14345,7 +14345,7 @@
 			(uuid "d907d5c5-01ce-4ebb-85c0-a2fa916f008c")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R14")
 					(unit 1)
@@ -14412,7 +14412,7 @@
 			(uuid "b60064d5-e5f3-4f0e-a265-fe7d738d4870")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR025")
 					(unit 1)
@@ -14508,7 +14508,7 @@
 			(uuid "e4ef9359-0bf7-4238-802c-1f52dc007825")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR035")
 					(unit 1)
@@ -14621,7 +14621,7 @@
 			(uuid "538cf7b6-c2fe-4fa0-92d2-931a457565e9")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP6")
 					(unit 1)
@@ -14771,7 +14771,7 @@
 			(uuid "b34bec89-e1f6-4ce1-b4c5-fd70321957f5")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R37")
 					(unit 1)
@@ -14866,7 +14866,7 @@
 			(uuid "4bd71f5f-5b73-4e2a-a11e-79a08e627535")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR013")
 					(unit 1)
@@ -14985,7 +14985,7 @@
 			(uuid "7d185174-7e44-48e7-a8a1-567aa8685a0a")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "F2")
 					(unit 1)
@@ -15080,7 +15080,7 @@
 			(uuid "647073e5-6164-4312-8236-bd7ca50fea4b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR038")
 					(unit 1)
@@ -15193,7 +15193,7 @@
 			(uuid "85e16d60-556b-4939-a89b-0407523c1fec")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP13")
 					(unit 1)
@@ -15343,7 +15343,7 @@
 			(uuid "de579c4d-d972-480b-a0bf-c2bf5ef5967f")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R8")
 					(unit 1)
@@ -15495,7 +15495,7 @@
 			(uuid "4def2a28-4b14-4ad7-b4ac-5415f0753c6a")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R32")
 					(unit 1)
@@ -15648,7 +15648,7 @@
 			(uuid "6dd3dd8d-ef8e-41e1-989a-bdadada2e96b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R26")
 					(unit 1)
@@ -15715,7 +15715,7 @@
 			(uuid "70080076-7569-4bf0-b459-7cc281fca260")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR022")
 					(unit 1)
@@ -15963,7 +15963,7 @@
 			(uuid "5a51a9ca-5dc0-43ed-8426-fdeef83516c6")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR07")
 					(unit 1)
@@ -16104,7 +16104,7 @@
 			(uuid "53d1fb1b-a43d-4501-9cfe-8d263b5ca569")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R6")
 					(unit 1)
@@ -16407,7 +16407,7 @@
 			(uuid "7cf8487f-bedb-486f-bc74-beab9fa32907")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R17")
 					(unit 1)
@@ -16503,7 +16503,7 @@
 			(uuid "7ec2db43-c590-4c66-b08f-814a9cecdc60")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR039")
 					(unit 1)
@@ -16616,7 +16616,7 @@
 			(uuid "240d8ae5-7fe8-4ff2-b77d-a0bb453fb142")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP8")
 					(unit 1)
@@ -16757,7 +16757,7 @@
 			(uuid "9518ecd9-776c-46f0-9c03-34ef745b5a3f")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R20")
 					(unit 1)
@@ -17006,7 +17006,7 @@
 			(uuid "9fbe7a0b-bd10-47d1-b844-7fef8c5c983e")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR08")
 					(unit 1)
@@ -17125,7 +17125,7 @@
 			(uuid "c5d8c309-a6e1-45f6-ac1e-015699b79fff")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP1")
 					(unit 1)
@@ -17256,7 +17256,7 @@
 			(uuid "58aec901-97aa-4bc5-bcaf-c2c46d849609")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "Q3")
 					(unit 1)
@@ -17374,7 +17374,7 @@
 			(uuid "41345733-980c-4158-b91d-f217c9dafe86")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP2")
 					(unit 1)
@@ -17515,7 +17515,7 @@
 			(uuid "e021d87b-d9d1-4475-a94a-8d47e6126847")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R10")
 					(unit 1)
@@ -17665,7 +17665,7 @@
 			(uuid "edf35616-373c-4c8f-961a-0377690eeb6f")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R38")
 					(unit 1)
@@ -17761,7 +17761,7 @@
 			(uuid "585802df-10b2-4329-9fac-4dd619704276")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR037")
 					(unit 1)
@@ -17856,7 +17856,7 @@
 			(uuid "c3265732-fb69-4ef9-85cb-f6599fc40fd6")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR014")
 					(unit 1)
@@ -17952,7 +17952,7 @@
 			(uuid "719a5fa7-5acd-4c4f-8266-1578b389edef")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR04")
 					(unit 1)
@@ -18019,7 +18019,7 @@
 			(uuid "69d6782d-cfdc-4d7c-b3a9-245ea15dcdba")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR034")
 					(unit 1)
@@ -18086,7 +18086,7 @@
 			(uuid "bfa19a42-e78f-4482-bc6c-befddc137ff5")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR09")
 					(unit 1)
@@ -18182,7 +18182,7 @@
 			(uuid "db0767d8-6436-491e-beda-d5c34cbc7c99")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR060")
 					(unit 1)
@@ -18451,7 +18451,7 @@
 			(uuid "b52775b5-e9ea-4500-8977-7348a42764e4")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "U2")
 					(unit 1)
@@ -18604,7 +18604,7 @@
 			(uuid "861f52c4-4068-4ac0-bad3-8d24b1b38b6b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R18")
 					(unit 1)
@@ -18887,7 +18887,7 @@
 			(uuid "e2be3064-05ec-41e2-be11-8d7af3f60e05")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R2")
 					(unit 1)
@@ -19040,7 +19040,7 @@
 			(uuid "473d48e6-2c48-44a8-b9a2-9f0861dafabc")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "C9")
 					(unit 1)
@@ -19181,7 +19181,7 @@
 			(uuid "eb4c87dc-36b0-44dc-abc4-9854a60c39c0")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R3")
 					(unit 1)
@@ -19277,7 +19277,7 @@
 			(uuid "eec7bcd3-9ea1-4f38-a77f-6e3f021eea75")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR055")
 					(unit 1)
@@ -19372,7 +19372,7 @@
 			(uuid "97b7a07e-cbef-43be-8c5f-c841f197ea54")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR028")
 					(unit 1)
@@ -19439,7 +19439,7 @@
 			(uuid "0c395d03-480b-413b-9f0f-3d363ac2e107")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR02")
 					(unit 1)
@@ -19535,7 +19535,7 @@
 			(uuid "ad70b053-f8ca-420f-89dc-b601f32f9cfe")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR051")
 					(unit 1)
@@ -19688,7 +19688,7 @@
 			(uuid "a6af25a1-6f51-44c7-9633-0c44d5ae8599")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "C2")
 					(unit 1)
@@ -19838,7 +19838,7 @@
 			(uuid "acd50b32-6804-44db-81cd-8cf7f7bf9ed8")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R21")
 					(unit 1)
@@ -19980,7 +19980,7 @@
 			(uuid "1f145bcf-4f93-457d-ab92-431358c73796")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R28")
 					(unit 1)
@@ -20130,7 +20130,7 @@
 			(uuid "32d09d3b-5cbf-4177-9b9c-9abfc46dbccd")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R25")
 					(unit 1)
@@ -20226,7 +20226,7 @@
 			(uuid "7f888e05-893f-44ab-b42a-88dbc890665a")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR047")
 					(unit 1)
@@ -20321,7 +20321,7 @@
 			(uuid "3a36a8fa-1e2b-4cda-8a2f-43905c8965ac")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR023")
 					(unit 1)
@@ -20474,7 +20474,7 @@
 			(uuid "a1a41d57-473f-427a-8187-0bbe7863c9d5")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R29")
 					(unit 1)
@@ -20876,7 +20876,7 @@
 			(uuid "c6aa388a-0688-41b4-b1c1-4c73cd9ddf88")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "D2")
 					(unit 1)
@@ -21026,7 +21026,7 @@
 			(uuid "32e586ad-5b5e-4e65-9cb2-5d0fda095111")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R31")
 					(unit 1)
@@ -21122,7 +21122,7 @@
 			(uuid "33cfcedb-f601-42c4-b0d6-0a484ef66c57")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR03")
 					(unit 1)
@@ -21263,7 +21263,7 @@
 			(uuid "06bba85f-cec3-45d9-9e4b-8ffdfa2e7701")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R19")
 					(unit 1)
@@ -21417,7 +21417,7 @@
 			(uuid "a4194c1f-d4a0-450b-b59e-9846bad7940f")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R35")
 					(unit 1)
@@ -21512,7 +21512,7 @@
 			(uuid "bc2454d5-c006-4b7d-b791-bebe8f8cd722")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR058")
 					(unit 1)
@@ -21662,7 +21662,7 @@
 			(uuid "de31676f-1220-413d-b3b9-bec2a762ac4d")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R9")
 					(unit 1)
@@ -21954,7 +21954,7 @@
 			(uuid "5a44fc57-7225-498f-bd57-3ebf67aaf168")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R1")
 					(unit 1)
@@ -22050,7 +22050,7 @@
 			(uuid "a93ebe5c-bbe1-4c00-8489-741fd20b85a2")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR061")
 					(unit 1)
@@ -22191,7 +22191,7 @@
 			(uuid "f2cdc52a-3b58-4f0b-9bd5-f1b002618a30")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R4")
 					(unit 1)
@@ -22580,7 +22580,7 @@
 			(uuid "ae34c019-f133-4145-bb49-d9e4e044b83e")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP12")
 					(unit 1)
@@ -22675,7 +22675,7 @@
 			(uuid "d113c634-e662-47c1-9cf7-973802babad0")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR019")
 					(unit 1)
@@ -22742,7 +22742,7 @@
 			(uuid "57d30940-fd74-47fd-9962-7c30f74e9622")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR027")
 					(unit 1)
@@ -22895,7 +22895,7 @@
 			(uuid "2d7b63f9-6c1b-40d2-8c7e-27427d29d545")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R27")
 					(unit 1)
@@ -23014,7 +23014,7 @@
 			(uuid "1e9b6632-157c-4469-9786-70b07f641e33")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "F1")
 					(unit 1)
@@ -23081,7 +23081,7 @@
 			(uuid "98322290-57d0-4868-a226-eb8cf53b9a47")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR015")
 					(unit 1)
@@ -23194,7 +23194,7 @@
 			(uuid "5e6190fd-d980-4208-83d9-71fc31c6e1fe")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP11")
 					(unit 1)
@@ -23289,7 +23289,7 @@
 			(uuid "30adeaaf-73bb-4624-97ff-48719998ad9a")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR030")
 					(unit 1)
@@ -23432,7 +23432,7 @@
 			(uuid "0bc89c3f-feb9-410e-997b-47dba16e55c5")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "U7")
 					(unit 1)
@@ -23582,7 +23582,7 @@
 			(uuid "d0315f2b-2302-43ad-9828-55472a3b9f6b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R34")
 					(unit 1)
@@ -23723,7 +23723,7 @@
 			(uuid "3b7c870a-f6c3-4401-91eb-6e7c1e529a7b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R13")
 					(unit 1)
@@ -23873,7 +23873,7 @@
 			(uuid "1241cbc9-e546-4796-8eea-44d08403652f")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R55")
 					(unit 1)
@@ -24093,7 +24093,7 @@
 			(uuid "0e90ced4-7942-44b0-80b6-c61e97c0a5a1")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR012")
 					(unit 1)
@@ -24225,7 +24225,7 @@
 			(uuid "354af41c-5d54-49b1-8433-a3c71761c985")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "Q2")
 					(unit 1)
@@ -24470,7 +24470,7 @@
 			(uuid "5e393bde-b44e-4e87-b27c-0f92077db878")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "U3")
 					(unit 1)
@@ -24583,7 +24583,7 @@
 			(uuid "89f536a9-6168-475f-96a7-491f1e566fb0")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP9")
 					(unit 1)
@@ -24791,7 +24791,7 @@
 			(uuid "9ce2cc49-934f-4f6a-b667-7cb8842114c2")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR026")
 					(unit 1)
@@ -24932,7 +24932,7 @@
 			(uuid "9a9a6293-11e9-4400-b7bf-365d28d52e27")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R23")
 					(unit 1)
@@ -25045,7 +25045,7 @@
 			(uuid "0a133055-a6c1-4640-8d96-486f50a7b9de")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP14")
 					(unit 1)
@@ -25140,7 +25140,7 @@
 			(uuid "26b46880-9cb7-426e-b1d7-34f60331149a")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR024")
 					(unit 1)
@@ -25236,7 +25236,7 @@
 			(uuid "2b5180ed-1b1b-428f-8282-1b9bcf7369e5")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR054")
 					(unit 1)
@@ -25550,7 +25550,7 @@
 			(uuid "049fd7b2-7e21-420f-af9b-d041df9e3d80")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR056")
 					(unit 1)
@@ -25617,7 +25617,7 @@
 			(uuid "49a1cc91-c3bb-409a-ba93-a74a46bebf42")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR046")
 					(unit 1)
@@ -25713,7 +25713,7 @@
 			(uuid "d884f063-1bf1-4851-bdc6-1a943fa73708")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR05")
 					(unit 1)
@@ -25863,7 +25863,7 @@
 			(uuid "e2d417d4-e872-460f-b7a7-63336c29a8d1")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R15")
 					(unit 1)
@@ -25984,7 +25984,7 @@
 			(uuid "0cb95a70-1985-41f8-96d4-bece0884f429")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "D1")
 					(unit 1)
@@ -26097,7 +26097,7 @@
 			(uuid "60eb6e03-fff0-465b-9524-e3d0b91a5513")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP7")
 					(unit 1)
@@ -26210,7 +26210,7 @@
 			(uuid "1a162858-4b3f-426f-98d2-0e4ee6048973")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP15")
 					(unit 1)
@@ -26328,7 +26328,7 @@
 			(uuid "ffc8b0a4-f3d9-4063-8760-daf206c77578")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP4")
 					(unit 1)
@@ -26395,7 +26395,7 @@
 			(uuid "25e488f3-f12d-410e-9ea9-0b5ab85a751e")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR031")
 					(unit 1)
@@ -26615,7 +26615,7 @@
 			(uuid "fd2baf38-dfc6-4d2e-ad18-9592eb8109ef")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR042")
 					(unit 1)
@@ -26765,7 +26765,7 @@
 			(uuid "47bf7517-f3ec-4086-acdf-bcf629b621f0")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R33")
 					(unit 1)
@@ -26861,7 +26861,7 @@
 			(uuid "65d7f369-0f29-4852-8afd-3a5bdf33288b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR010")
 					(unit 1)
@@ -27135,7 +27135,7 @@
 			(uuid "29c57c0f-075f-4cc4-86c2-8ef97e8f4b86")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "Q1")
 					(unit 1)
@@ -27266,7 +27266,7 @@
 			(uuid "0fc9a4d5-bc63-4a38-8f33-23023ca916cb")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "Q4")
 					(unit 1)
@@ -27361,7 +27361,7 @@
 			(uuid "c3cb36a9-6c3a-4baf-b185-0c86c3920e9b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR032")
 					(unit 1)
@@ -27428,7 +27428,7 @@
 			(uuid "0f3ee116-8962-434b-93e0-f6fc43504544")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR029")
 					(unit 1)
@@ -27524,7 +27524,7 @@
 			(uuid "d31a3622-c5b3-4bdb-8658-251efd26d6ae")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR050")
 					(unit 1)
@@ -27729,7 +27729,7 @@
 			(uuid "9fdbe507-5031-4bba-9cca-c76ade5406de")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR017")
 					(unit 1)
@@ -27825,7 +27825,7 @@
 			(uuid "79ed2430-fbec-4026-bd0e-b3ddedc22faf")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR036")
 					(unit 1)
@@ -27966,7 +27966,7 @@
 			(uuid "739c64bd-a746-448f-949b-d55e44cf79ea")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R5")
 					(unit 1)
@@ -28118,7 +28118,7 @@
 			(uuid "01bcb7cc-947f-4f3c-baa3-4b625e5a4435")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "C4")
 					(unit 1)
@@ -28312,7 +28312,7 @@
 			(uuid "b698a69b-dd1e-448b-ae0d-955777d19769")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR011")
 					(unit 1)
@@ -28462,7 +28462,7 @@
 			(uuid "50ec5d7d-c087-4dd1-a0d1-9d8301701c72")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R7")
 					(unit 1)
@@ -28529,7 +28529,7 @@
 			(uuid "c1702cf5-22fc-4ee7-b80a-e8c5f6d6b2d8")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR033")
 					(unit 1)
@@ -28625,7 +28625,7 @@
 			(uuid "1b3ba274-1495-4630-9fd1-82835bd08dbb")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR059")
 					(unit 1)
@@ -28775,7 +28775,7 @@
 			(uuid "e6f0445f-1cd8-4860-b2cc-d6ddac38b076")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R30")
 					(unit 1)
@@ -28911,7 +28911,7 @@
 			(uuid "8bc2b4b3-6228-449b-8ee3-866137cf10ab")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#FLG03")
 					(unit 1)
@@ -28978,7 +28978,7 @@
 			(uuid "ab4fe899-af75-4ddf-9ecd-f519e7345fcc")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR021")
 					(unit 1)
@@ -29128,7 +29128,7 @@
 			(uuid "9b8618ee-9a12-46e8-8cb9-2f9e2818993b")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R54")
 					(unit 1)
@@ -29223,7 +29223,7 @@
 			(uuid "da45ab29-556c-4b20-a935-ee32d38b7eff")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR020")
 					(unit 1)
@@ -29373,7 +29373,7 @@
 			(uuid "54dbd269-c2be-4c59-a7fd-0e8c217d3153")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R36")
 					(unit 1)
@@ -29486,7 +29486,7 @@
 			(uuid "2907646b-fb9c-46db-ac49-22b78eb659a6")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP10")
 					(unit 1)
@@ -29581,7 +29581,7 @@
 			(uuid "4f540212-36b8-4b9f-97b9-d47309e120fc")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR045")
 					(unit 1)
@@ -29649,7 +29649,7 @@
 			(uuid "d38a9724-91c9-41c4-93ec-b10adc30328d")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#FLG02")
 					(unit 1)
@@ -29791,7 +29791,7 @@
 			(uuid "678ed8cb-8e94-4d82-9391-629428e386cf")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R11")
 					(unit 1)
@@ -29887,7 +29887,7 @@
 			(uuid "c66c9f34-10e4-4cb3-9078-910ffbe81bd2")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR06")
 					(unit 1)
@@ -29954,7 +29954,7 @@
 			(uuid "1b2b5bd1-bdfa-4fe3-af87-6fbe4f6bc5ab")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "#PWR016")
 					(unit 1)
@@ -30106,7 +30106,7 @@
 			(uuid "a912d824-f649-4e1f-9b50-30bca52c2da0")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R48")
 					(unit 1)
@@ -30258,7 +30258,7 @@
 			(uuid "65c43e97-29eb-46d7-a098-de8a95eeee12")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "C7")
 					(unit 1)
@@ -30552,7 +30552,7 @@
 			(uuid "8e9883cc-6c81-48ba-bf9a-005f3e648a5d")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R22")
 					(unit 1)
@@ -30693,7 +30693,7 @@
 			(uuid "487d6a9d-7de4-44a8-aae4-04180a1eb7a8")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R24")
 					(unit 1)
@@ -30834,7 +30834,7 @@
 			(uuid "605294cb-034b-477e-91a7-755a5ab80343")
 		)
 		(instances
-			(project "pmod-i3c-temperature-sensor"
+			(project "pmod-i3c-sensor-board"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R12")
 					(unit 1)

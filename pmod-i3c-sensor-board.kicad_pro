@@ -565,7 +565,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pmod-i3c-temperature-sensor.kicad_pro",
+    "filename": "pmod-i3c-sensor-board.kicad_pro",
     "version": 3
   },
   "net_settings": {
