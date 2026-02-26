@@ -603,7 +603,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/WLP-4_0.82x0.82mm.step"
 			(offset
-				(xyz -0 -0 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8453,19 +8453,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9740fa26-8662-47dc-8d46-5041dfd080cc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DNP" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "81d46ce7-732c-450c-ac3c-37a6e4dd5772")
 			(effects
 				(font
 					(size 1 1)
@@ -19125,19 +19112,6 @@
 				)
 			)
 		)
-		(property "DNP" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "83ec996b-df0c-4d3c-9d46-315a3da8ef55")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/b116b18f-f8b6-4f25-873f-a7d0150904b2")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
@@ -20889,19 +20863,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7ba2988-8b87-42c0-a440-02aa3e110a35")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DNP" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bb64a205-0b6d-4cb2-959a-0509247fbd29")
 			(effects
 				(font
 					(size 1 1)
@@ -27348,19 +27309,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "81ee70f1-1d29-42de-8f2c-e4026a1fd871")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DNP" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c588b435-89de-4c20-b16e-037ead2e7a69")
 			(effects
 				(font
 					(size 1 1)
@@ -50600,19 +50548,6 @@
 				)
 			)
 		)
-		(property "DNP" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1c3f028b-f8b5-4950-8a72-9f9d09c3dacb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6b86fcce-c013-42ce-98c1-6ad364fab28c")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
@@ -52593,19 +52528,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7565d6a9-8ec1-4067-9717-4c333d6b5520")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DNP" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5b128ddc-b704-4375-8124-47b287126a3b")
 			(effects
 				(font
 					(size 1 1)
@@ -60355,19 +60277,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e987d56-31f1-411c-8fec-cde1b6bc1548")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DNP" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1a7e393e-1e97-4252-83a2-d4fa8a2721b7")
 			(effects
 				(font
 					(size 1 1)
@@ -71110,19 +71019,6 @@
 				)
 			)
 		)
-		(property "DNP" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b137b9ce-063b-42ea-9af5-c69153c0ae5a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6d6ab0bc-ba0f-4a2f-899c-a556a3fa6e4d")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
@@ -79912,19 +79808,6 @@
 				)
 			)
 		)
-		(property "DNP" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5c369ad2-2b23-4d5d-ac11-f98d93acb5ae")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/377ea7d7-bc2d-485c-bdf2-5f0a06ec3696")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
@@ -87833,7 +87716,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/Bosch_WLCSP-6_0.84x1.18mm.step"
 			(offset
-				(xyz -0 -0 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -95052,19 +94935,6 @@
 				)
 			)
 		)
-		(property "DNP" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5960bb79-e47a-467f-933c-d99e43e101f0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/d32a0f4e-5fa5-494d-97f8-0bb45812439a")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
@@ -96447,19 +96317,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd400a60-1c40-4a44-a38f-bfae2f7d3561")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DNP" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c9452a03-7f21-4b3d-93b6-ed2b99db30fa")
 			(effects
 				(font
 					(size 1 1)
@@ -118822,19 +118679,6 @@
 				)
 			)
 		)
-		(property "DNP" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "eda0b15b-e73c-43ce-a21c-57280b8d4422")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e3d07c47-89a2-4312-b751-ae0f1279e5e0")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-sensor-board.kicad_sch")
@@ -134907,19 +134751,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d58dd6e-beba-40cb-91cc-848ddc24cbb3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DNP" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b810da03-6c83-4a65-baf7-49fb1ce96627")
 			(effects
 				(font
 					(size 1 1)
@@ -152737,12 +152568,12 @@
 	(gr_rect
 		(start 120 80)
 		(end 153.02 100.32)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
-		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "38455ee2-e946-427b-ba61-c561cadb663d")
 	)
@@ -152936,7 +152767,7 @@
 		)
 	)
 	(gr_text "SHA: ########"
-		(at 151.96 84.915 -0)
+		(at 151.96 84.915 0)
 		(layer "B.SilkS")
 		(uuid "8b141fab-6309-454f-86b6-b7b10b8598b2")
 		(effects
