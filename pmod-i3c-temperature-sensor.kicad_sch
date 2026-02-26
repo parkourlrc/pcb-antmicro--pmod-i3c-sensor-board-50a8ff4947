@@ -9059,14 +9059,14 @@
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
-			(type default)
+			(type solid)
 		)
 		(fill
 			(type none)
 		)
 		(effects
 			(font
-				(face "Bitstream Vera Sans Mono")
+				(face "DejaVu Sans Mono")
 				(size 1.27 1.27)
 			)
 			(justify left top)
@@ -9080,14 +9080,14 @@
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
-			(type default)
+			(type solid)
 		)
 		(fill
 			(type none)
 		)
 		(effects
 			(font
-				(face "Bitstream Vera Sans Mono")
+				(face "DejaVu Sans Mono")
 				(size 1.27 1.27)
 			)
 			(justify left top)
