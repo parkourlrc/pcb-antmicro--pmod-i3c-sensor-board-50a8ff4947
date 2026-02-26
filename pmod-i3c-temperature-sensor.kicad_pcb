@@ -700,7 +700,7 @@
 		(uuid "0367976d-8281-4470-919b-5f77ed0619cd")
 		(at 134.475 89.825 -90)
 		(property "Reference" "F1"
-			(at 0.45 1.47 90)
+			(at 0.684 0.525 90)
 			(layer "F.SilkS")
 			(uuid "9936bffe-9521-4bfb-b3ff-dbd50787671e")
 			(effects
@@ -6811,7 +6811,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R1"
-			(at -2.4 -0.824999 0)
+			(at -1.405 1.225 0)
 			(layer "F.SilkS")
 			(uuid "416ea1f9-5196-4988-8d2e-b4669bb85b1a")
 			(effects
@@ -8037,7 +8037,7 @@
 		(descr "Resistor SMD 0603")
 		(tags "resistor SMD 0603")
 		(property "Reference" "R30"
-			(at 0 -0.9 0)
+			(at -1.175 -0.55 0)
 			(layer "F.SilkS")
 			(uuid "018e8e1c-b661-45ae-bd7a-e4a17ad34df8")
 			(effects
@@ -8406,7 +8406,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R21"
-			(at -5.373478 0.580733 180)
+			(at -5.27 0.05 180)
 			(layer "F.SilkS")
 			(uuid "e51560ca-6c6b-4d18-b60d-29496025f025")
 			(effects
@@ -8768,7 +8768,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R12"
-			(at 0.9509 2.648836 90)
+			(at 1.705 2.925 90)
 			(layer "F.SilkS")
 			(uuid "ca2e6948-0252-437e-bcb5-ad6fe8f1f793")
 			(effects
@@ -9104,7 +9104,7 @@
 		(descr "Resistor SMD 0603")
 		(tags "resistor SMD 0603")
 		(property "Reference" "R33"
-			(at 0 -0.9 0)
+			(at -3.25 0.5 0)
 			(layer "F.SilkS")
 			(uuid "ca947cf6-163d-494b-9acb-98f6fa8117b7")
 			(effects
@@ -9473,7 +9473,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R60"
-			(at 2.98 9.98 270)
+			(at 3.22 9.9 270)
 			(layer "F.SilkS")
 			(uuid "8c316dab-b6a3-426f-91d3-6d814db59320")
 			(effects
@@ -9809,7 +9809,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R8"
-			(at -0.769777 -0.439993 90)
+			(at -1.434572 -1.326815 180)
 			(layer "F.SilkS")
 			(uuid "8d28bf4b-77fa-4ec4-b9b4-4db429b0a2c0")
 			(effects
@@ -10161,7 +10161,7 @@
 		(descr "USON-10 2.5x1mm_ Pitch 0.5mm")
 		(tags "USON-10 2.5x1mm Pitch 0.5mm")
 		(property "Reference" "U7"
-			(at -0.825 2.37 0)
+			(at 1.585 0.825 90)
 			(layer "F.SilkS")
 			(uuid "3ff95efd-c2d7-4700-a347-66f47b465e73")
 			(effects
@@ -13193,7 +13193,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R59"
-			(at 0.925 0.38 0)
+			(at -1.27 1.475 0)
 			(layer "F.SilkS")
 			(uuid "a3159ecf-4f66-4cc0-bab0-5275626de9e7")
 			(effects
@@ -13527,7 +13527,7 @@
 		(uuid "30fdefd5-e1ce-4d59-b743-ee07a811756c")
 		(at 134.465001 82.996414)
 		(property "Reference" "Q2"
-			(at 0.534999 0.803586 0)
+			(at -2.065001 0.903586 180)
 			(layer "F.SilkS")
 			(uuid "1fc154d5-841b-4add-8337-56cae5d92b9b")
 			(effects
@@ -14436,7 +14436,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R29"
-			(at -1.03 -1.36 0)
+			(at -1.03 -1.31 0)
 			(layer "F.SilkS")
 			(uuid "36845609-3af4-4ea5-8b6f-e8ab5347469a")
 			(effects
@@ -14783,7 +14783,7 @@
 		(uuid "3ae4e1fd-662f-4d41-a5d9-408ad2e0b6ee")
 		(at 128.25 95.536 90)
 		(property "Reference" "D1"
-			(at -0.774 -0.506145 90)
+			(at 0.636 -1.05 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b35f9c17-e83a-44a7-8bc6-c1cfceb08cbc")
@@ -15398,7 +15398,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R2"
-			(at -2.460454 0.141793 0)
+			(at -2.450454 0.061793 0)
 			(layer "F.SilkS")
 			(uuid "ffc01bd5-839c-45bd-a313-1eb6144a29e2")
 			(effects
@@ -19076,7 +19076,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R15"
-			(at -3.108836 0.44536 90)
+			(at -3.958836 0.50536 90)
 			(layer "F.SilkS")
 			(uuid "99ea2890-ae8d-40c0-a0c0-e2ff71df478b")
 			(effects
@@ -19438,7 +19438,7 @@
 		(descr "Resistor SMD 0603")
 		(tags "resistor SMD 0603")
 		(property "Reference" "R31"
-			(at 0 -0.9 0)
+			(at -1.225 -0.125 90)
 			(layer "F.SilkS")
 			(uuid "463ef3c0-627a-4f5f-8f91-55cb845260d2")
 			(effects
@@ -19973,7 +19973,7 @@
 		(descr "Resistor SMD 0603")
 		(tags "resistor SMD 0603")
 		(property "Reference" "R36"
-			(at 0 -0.9 0)
+			(at -3.3 0.55 0)
 			(layer "F.SilkS")
 			(uuid "e936cede-8d2f-4c79-80f6-2cf9313bf735")
 			(effects
@@ -20342,7 +20342,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R7"
-			(at -0.53 -0.47 90)
+			(at 2.355 -0.425 90)
 			(layer "F.SilkS")
 			(uuid "3fc571f9-0177-4279-9617-add186bc4a74")
 			(effects
@@ -20694,7 +20694,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R6"
-			(at -0.780205 -0.39 90)
+			(at -1.445 -1.075 180)
 			(layer "F.SilkS")
 			(uuid "bbaea069-1ba1-475e-8f63-cdd18017f1c3")
 			(effects
@@ -21044,7 +21044,7 @@
 		(uuid "54dab0e7-f178-422c-a686-20adcbcdbe08")
 		(at 134.45 84.55 180)
 		(property "Reference" "F2"
-			(at -2.088343 0.62075 90)
+			(at -0.65 1.8 270)
 			(layer "F.SilkS")
 			(uuid "34ed6a9e-cc1b-464d-a014-210280521e21")
 			(effects
@@ -27155,7 +27155,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R3"
-			(at 0.47 1.52 0)
+			(at -0.810001 1.152001 0)
 			(layer "F.SilkS")
 			(uuid "9e5f763c-70df-4170-9a71-1a5eb3e1c130")
 			(effects
@@ -27507,7 +27507,7 @@
 		(descr "LED SMD 0603 Green")
 		(tags "LED SMD 0603 Green")
 		(property "Reference" "D3"
-			(at 2.1 0.675 90)
+			(at -2.25 -0.725 270)
 			(layer "F.SilkS")
 			(uuid "b4167135-162c-4d0f-94de-b69b4810a211")
 			(effects
@@ -30740,7 +30740,7 @@
 		(uuid "603ad6d0-fab7-4dea-a474-fd0dc518d0a2")
 		(at 139.519301 88.172164 180)
 		(property "Reference" "Q4"
-			(at 0.98164 -0.097836 0)
+			(at 1.469301 0.072164 0)
 			(layer "F.SilkS")
 			(uuid "126cde48-a973-4afb-8f53-a27c93a5a4dc")
 			(effects
@@ -43323,7 +43323,7 @@
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C5"
-			(at 0.925 0.47 90)
+			(at 0.71 0.775 90)
 			(layer "F.SilkS")
 			(uuid "5c3ff932-384e-41c2-b27e-baf544eb8ada")
 			(effects
@@ -50401,7 +50401,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R19"
-			(at -3.108836 0.49536 90)
+			(at -3.958836 0.60536 90)
 			(layer "F.SilkS")
 			(uuid "032cd0fa-10ba-413e-8992-358689c8d322")
 			(effects
@@ -50750,7 +50750,7 @@
 		(descr "Resistor SMD 0603")
 		(tags "resistor SMD 0603")
 		(property "Reference" "R34"
-			(at 0 -0.9 0)
+			(at -3.25 0.375 0)
 			(layer "F.SilkS")
 			(uuid "7b173b7a-758d-4d80-8162-7b7b34742061")
 			(effects
@@ -51117,7 +51117,7 @@
 		(uuid "6ee75b41-b614-4938-bdc8-690ce0451011")
 		(at 140.75 86.35)
 		(property "Reference" "TP3"
-			(at -0.866214 -0.609227 0)
+			(at 1.25 -0.35 90)
 			(layer "F.SilkS")
 			(uuid "cf055fba-824e-4e5c-959f-235befe7ae40")
 			(effects
@@ -52401,7 +52401,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R20"
-			(at 3.112946 0.420497 0)
+			(at -5.82 -0.125 0)
 			(layer "F.SilkS")
 			(uuid "d406e4dc-fdcd-440c-a0da-4db8c82f7580")
 			(effects
@@ -52750,7 +52750,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R57"
-			(at -1.09 -0.46 0)
+			(at -2.92 1.3 0)
 			(layer "F.SilkS")
 			(uuid "eb68e1d6-de70-4c87-ba92-0939fecc6e09")
 			(effects
@@ -53086,7 +53086,7 @@
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C2"
-			(at 1.08 0.043208 0)
+			(at 0.9 0.23 0)
 			(layer "F.SilkS")
 			(uuid "c5d6206c-cef4-44b9-9420-2aae4ff57012")
 			(effects
@@ -60164,7 +60164,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R24"
-			(at -1.753369 -0.330265 0)
+			(at -0.845 -0.360265 0)
 			(layer "F.SilkS")
 			(uuid "3ed6aa87-970b-4687-9b15-b2ded28ce138")
 			(effects
@@ -60513,7 +60513,7 @@
 		(descr "5-lead Small Outline SMT package (aka SC-70-5, SC-88A or TSSOP5): reflow soldering footprint")
 		(tags "SOT-353 sot353 SC-70-5 sc70 SC-88A sc88a TSSOP5")
 		(property "Reference" "U2"
-			(at 0.134907 -2.070719 0)
+			(at -2.15 -0.5672 90)
 			(layer "F.SilkS")
 			(uuid "b8aa3e13-2ab5-4f3a-8dbb-753eab055099")
 			(effects
@@ -62985,7 +62985,7 @@
 		(uuid "77f80240-1e3c-4385-bbfa-c77cf5dee6ac")
 		(at 129.020671 93.2 90)
 		(property "Reference" "Q5"
-			(at 0.29 -1.950671 180)
+			(at -0.3 -0.920671 270)
 			(layer "F.SilkS")
 			(uuid "c19aed99-be17-4c7d-95eb-7f15cad3773b")
 			(effects
@@ -63824,7 +63824,7 @@
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C4"
-			(at 0.254181 1.648665 0)
+			(at -2.33 0.475 0)
 			(layer "F.SilkS")
 			(uuid "9917720a-0fe3-4784-af51-459aaa822613")
 			(effects
@@ -70902,7 +70902,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R9"
-			(at 0.892422 0.95745 90)
+			(at 0.742422 1.10745 90)
 			(layer "F.SilkS")
 			(uuid "3e92d5fe-35cb-4075-b6a4-e6880a945107")
 			(effects
@@ -71267,7 +71267,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R22"
-			(at 0.806488 0.47 0)
+			(at -2.87 0.47 0)
 			(layer "F.SilkS")
 			(uuid "fc5c7b1d-32fd-476b-a9de-9fb0e701ce28")
 			(effects
@@ -71952,7 +71952,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R27"
-			(at -1.122484 -0.46 0)
+			(at -1.122484 -0.41 0)
 			(layer "F.SilkS")
 			(uuid "90f9e8a7-8232-4e21-8107-efe378b41a20")
 			(effects
@@ -79714,7 +79714,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R10"
-			(at 3.079616 1.092754 0)
+			(at 2.979616 1.092754 0)
 			(layer "F.SilkS")
 			(uuid "b26a1d7e-1bc2-4c4c-9e0e-9bcaa28065af")
 			(effects
@@ -80066,7 +80066,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R26"
-			(at -0.99 -1.4 0)
+			(at -0.99 -1.35 0)
 			(layer "F.SilkS")
 			(uuid "85b6e83c-3ec6-4e4a-b066-66433696178e")
 			(effects
@@ -80415,7 +80415,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R13"
-			(at -0.40536 -0.493484 270)
+			(at 1.08464 -3.625 0)
 			(layer "F.SilkS")
 			(uuid "e75c32dd-627f-45a9-b71b-44135f377f3a")
 			(effects
@@ -83989,7 +83989,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R48"
-			(at -1.38 1.21 0)
+			(at -0.93 -0.45 0)
 			(layer "F.SilkS")
 			(uuid "3b9cab31-bcae-4670-a989-6560c06b554e")
 			(effects
@@ -84338,7 +84338,7 @@
 		(descr "USON-10 2.5x1mm_ Pitch 0.5mm")
 		(tags "USON-10 2.5x1mm Pitch 0.5mm")
 		(property "Reference" "U8"
-			(at -0.725 2.4 0)
+			(at 1.585 0.975 90)
 			(layer "F.SilkS")
 			(uuid "94482384-1514-4666-92a9-d748469172fd")
 			(effects
@@ -87369,7 +87369,7 @@
 		(uuid "9ec936b2-4b29-40b3-8dcd-cf7d6e2bc41c")
 		(at 148.6 89.805063 180)
 		(property "Reference" "U4"
-			(at -0.751 0.205063 0)
+			(at -0.9 -1.294937 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e365fbdf-7d4a-4d9c-98b8-2c0d4560d6ac")
@@ -87751,7 +87751,7 @@
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C8"
-			(at -4.6 -9.16 90)
+			(at -4.6 -9.1 90)
 			(layer "F.SilkS")
 			(uuid "63180cdf-11aa-42a6-8c37-92d0167393b0")
 			(effects
@@ -94828,7 +94828,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R5"
-			(at 0.925 0.47 90)
+			(at 0.845 0.3 90)
 			(layer "F.SilkS")
 			(uuid "cd14b442-d892-4197-a60c-d5f5781e9703")
 			(effects
@@ -95180,7 +95180,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R32"
-			(at 0.925 0.143208 0)
+			(at -3.11 0.45 0)
 			(layer "F.SilkS")
 			(uuid "154ed8ed-8e5f-470c-b4d9-beba2e5aeea4")
 			(effects
@@ -95531,7 +95531,7 @@
 		(uuid "a2f673b3-f667-47f5-971a-89de49e8b116")
 		(at 148.649 84.07)
 		(property "Reference" "U1"
-			(at 2.161 -1.51 0)
+			(at 2.751 -1.32 0)
 			(layer "F.SilkS")
 			(uuid "b2860ae3-715e-4551-8a9b-2f7902dff4c8")
 			(effects
@@ -100914,7 +100914,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R17"
-			(at -1.04 -1.34 0)
+			(at -1.04 -1.24 0)
 			(layer "F.SilkS")
 			(uuid "8eef0004-a448-4ee7-a5bb-9177fabcad61")
 			(effects
@@ -101263,7 +101263,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R28"
-			(at -1.084552 1.45 0)
+			(at -1.265448 -0.7 0)
 			(layer "F.SilkS")
 			(uuid "88f6ccea-4a8d-40c2-8fa5-37f1471d139a")
 			(effects
@@ -101599,7 +101599,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R25"
-			(at -1.171489 -0.55492 0)
+			(at 0.845 2.19508 0)
 			(layer "F.SilkS")
 			(uuid "796479ba-e8bd-4487-8536-e24c80c7f1ec")
 			(effects
@@ -114542,7 +114542,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R23"
-			(at 3.130639 1.262277 0)
+			(at 2.980639 1.262277 0)
 			(layer "F.SilkS")
 			(uuid "0419db95-cad0-4b40-a741-b028862594fb")
 			(effects
@@ -115227,7 +115227,7 @@
 		(descr "Resistor SMD 0603")
 		(tags "resistor SMD 0603")
 		(property "Reference" "R37"
-			(at 0 -0.9 0)
+			(at -3.3 0.43 0)
 			(layer "F.SilkS")
 			(uuid "38a0a5bd-1558-41a1-96a6-5adab7736e12")
 			(effects
@@ -115596,7 +115596,7 @@
 		(descr "5-lead Small Outline SMT package (aka SC-70-5, SC-88A or TSSOP5): reflow soldering footprint")
 		(tags "SOT-353 sot353 SC-70-5 sc70 SC-88A sc88a TSSOP5")
 		(property "Reference" "U3"
-			(at 1.104 1.283 0)
+			(at -1.15 2.367199 0)
 			(layer "F.SilkS")
 			(uuid "d0d14b07-b6c6-4668-a0cb-dc06355d131f")
 			(effects
@@ -118432,7 +118432,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R16"
-			(at -1.6 -0.44 0)
+			(at -1.6 -0.39 0)
 			(layer "F.SilkS")
 			(uuid "6fb1122c-e2b1-44dd-83a9-a333f8eea5a3")
 			(effects
@@ -125858,7 +125858,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R14"
-			(at 0.086608 -0.740716 90)
+			(at -0.77 -0.25 90)
 			(layer "F.SilkS")
 			(uuid "2d3faae6-e8d5-4df8-85b0-9a4c2e1191a0")
 			(effects
@@ -133269,7 +133269,7 @@
 		(uuid "ddfd0b72-871b-44d5-8e5d-19f1b0d1ec20")
 		(at 134.475 87.7)
 		(property "Reference" "Q1"
-			(at -0.03 2.050001 90)
+			(at -0.275 0.1 180)
 			(layer "F.SilkS")
 			(uuid "0f7ce170-5709-4c45-94a3-6abe8ae9c6ad")
 			(effects
@@ -134178,7 +134178,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R4"
-			(at -2.259682 0.4 0)
+			(at 0.73 0.47 0)
 			(layer "F.SilkS")
 			(uuid "af899997-767e-4390-8a60-320faf0ff9f0")
 			(effects
@@ -134530,7 +134530,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R11"
-			(at 3.12536 0.979503 0)
+			(at -5.205 -0.775 0)
 			(layer "F.SilkS")
 			(uuid "7500f25d-0d06-4c4f-9f1f-5f761c9cf84d")
 			(effects
@@ -134866,7 +134866,7 @@
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C3"
-			(at 0.78 0.505991 0)
+			(at -2.355 0.375 0)
 			(layer "F.SilkS")
 			(uuid "b282eefd-f6a1-4e70-ba71-c7d1f17bfbe6")
 			(effects
@@ -141944,7 +141944,7 @@
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C7"
-			(at 3.01 9.99 90)
+			(at 3.33 9.875 90)
 			(layer "F.SilkS")
 			(uuid "213e3b1c-9ee6-4c0c-b252-ab6226cdc22c")
 			(effects
@@ -149357,7 +149357,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R35"
-			(at 0.925 0.47 90)
+			(at 0.71 0.775 90)
 			(layer "F.SilkS")
 			(uuid "9c449c75-d26f-4d1c-9e01-c0635a5cbc11")
 			(effects
@@ -149709,7 +149709,7 @@
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R18"
-			(at -1.25 -0.45 0)
+			(at -1.25 -0.4 0)
 			(layer "F.SilkS")
 			(uuid "771e8acc-18f1-428f-937e-d268079a9594")
 			(effects
@@ -150592,7 +150592,7 @@
 	)
 	(gr_line
 		(start 129.75 94.4)
-		(end 128.8 94.4)
+		(end 128.85 94.4)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150601,8 +150601,8 @@
 		(uuid "02b41173-ae32-404e-8576-44412991f8b8")
 	)
 	(gr_line
-		(start 128.8 96.35)
-		(end 127.65 96.35)
+		(start 128.85 96.6)
+		(end 127.65 96.6)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150621,18 +150621,18 @@
 		(uuid "0853dfb4-0a3a-423c-a7ca-697457175a00")
 	)
 	(gr_line
-		(start 134.45 91.25)
-		(end 136.4 91.25)
+		(start 134.55 93.85)
+		(end 134.9 93.5)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "0aa5d9cf-b7ef-4a6f-9d26-5c1ebe764600")
+		(uuid "0e6d8f35-af88-45b6-b811-e85ded22cc72")
 	)
 	(gr_line
-		(start 138.162054 85.859503)
-		(end 136.312054 85.859503)
+		(start 138.162054 85.7)
+		(end 136.4 85.7)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150651,17 +150651,17 @@
 		(uuid "22ec35c5-2cfc-42fc-96f7-5a634a4a1613")
 	)
 	(gr_line
-		(start 134.68 92.73)
-		(end 134.15 92.2)
+		(start 140.25 86.949863)
+		(end 140.95 86.949863)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "23c5391d-cfdd-44e3-91a6-143103210d96")
+		(uuid "36d28a26-98f8-41b1-bb28-1d985769aa76")
 	)
 	(gr_line
-		(start 136.312054 87.900733)
+		(start 136.4 87.900733)
 		(end 138.171522 87.900733)
 		(stroke
 			(width 0.15)
@@ -150671,7 +150671,7 @@
 		(uuid "3cff0eaa-0b47-4fb9-9dbc-228b4b872814")
 	)
 	(gr_line
-		(start 127.65 96.35)
+		(start 127.65 96.6)
 		(end 127.65 98.4)
 		(stroke
 			(width 0.15)
@@ -150679,26 +150679,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "3fcd2cba-9a19-4a4f-8e61-8e97b90c7bb7")
-	)
-	(gr_line
-		(start 144.45 86.85)
-		(end 144.45 87.4)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "462be1b5-ae3e-4002-87e2-0c43a22f8476")
-	)
-	(gr_line
-		(start 136.4 91.25)
-		(end 136.675 91.525)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "501889aa-2ec6-47a5-9c10-32c9e5e41e67")
 	)
 	(gr_line
 		(start 137.225 94.27)
@@ -150709,6 +150689,16 @@
 		)
 		(layer "F.SilkS")
 		(uuid "528080c6-6996-47aa-ba18-c63c46b93378")
+	)
+	(gr_line
+		(start 134.25 81.05)
+		(end 135.4 82.2)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "540e6aaf-14e9-49f7-b9e8-ee9e13b6390c")
 	)
 	(gr_line
 		(start 139.33 90.66)
@@ -150741,17 +150731,17 @@
 		(uuid "74a2a7cd-9fd9-422b-bd86-4b931c2ed8fb")
 	)
 	(gr_line
-		(start 142.25 85.8)
-		(end 140.4 85.8)
+		(start 142.15 86.1)
+		(end 141.25 86.1)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "74e83410-c45c-44d5-92f9-5e998ff6df2c")
+		(uuid "78a719b2-b60c-41dd-9bfb-d83c054b7e17")
 	)
 	(gr_line
-		(start 144.5 84.55)
+		(start 144.5 84.75)
 		(end 144.5 86.025)
 		(stroke
 			(width 0.15)
@@ -150761,18 +150751,28 @@
 		(uuid "794b27bd-c52f-4075-b0b3-91a5466fe3d7")
 	)
 	(gr_line
-		(start 142.58 87.8)
-		(end 140.75 87.8)
+		(start 136.3 81.8)
+		(end 136.55 82.05)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "8800bf60-eaab-4a63-9856-5a27399434a5")
+		(uuid "89e6ea5e-fa75-4a54-bc60-c560731258d5")
 	)
 	(gr_line
-		(start 136.312054 85.859503)
-		(end 136.312054 87.900733)
+		(start 144.45 88)
+		(end 144.45 86.95)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8a6f3798-5a18-4419-a95c-baacb8b20105")
+	)
+	(gr_line
+		(start 136.4 85.7)
+		(end 136.4 87.900733)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150781,37 +150781,17 @@
 		(uuid "9550abae-de1f-4b18-85df-a43124d7fad2")
 	)
 	(gr_line
-		(start 142.95 84.55)
-		(end 144.5 84.55)
+		(start 142.7 84.124)
+		(end 142.5 83.924)
 		(stroke
 			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "997d0c67-81fd-45b0-beb3-72e1a0280b15")
+		(uuid "9ba67d7c-6e9f-4c35-9574-214a54435b5f")
 	)
 	(gr_line
-		(start 140.09964 86.799503)
-		(end 140.4 86.799503)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "9c79b30d-94bf-439e-8a19-8757130eda4c")
-	)
-	(gr_line
-		(start 142.58 87.8)
-		(end 142.58 87.4)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "ab32476a-2dd3-44fb-b3e9-181f7a753b9a")
-	)
-	(gr_line
-		(start 130.35 94.305)
+		(start 131.5 94.305)
 		(end 135.15 94.305)
 		(stroke
 			(width 0.15)
@@ -150821,8 +150801,8 @@
 		(uuid "b0ac3e6e-0fc8-46c0-9356-f34fe626890b")
 	)
 	(gr_line
-		(start 142.25 85.8)
-		(end 142.25 84.75)
+		(start 142.15 86.1)
+		(end 142.15 84.75)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150841,6 +150821,36 @@
 		(uuid "b2457dea-bee4-4a34-b80d-49bd3d141889")
 	)
 	(gr_line
+		(start 142.85 84.124)
+		(end 142.7 84.124)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b2bcc9b2-e358-499c-8ae3-fb2b2dc39975")
+	)
+	(gr_line
+		(start 140.09964 86.799503)
+		(end 140.25 86.949863)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b5a7598d-46ad-4941-8f62-f46572e52acc")
+	)
+	(gr_line
+		(start 140.75 88)
+		(end 144.45 88)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ba3d86a7-7f7f-40ef-8753-3828c0da3f06")
+	)
+	(gr_line
 		(start 138.171522 86.799503)
 		(end 140.09964 86.799503)
 		(stroke
@@ -150851,8 +150861,38 @@
 		(uuid "c05c8510-8f00-48fb-9d0c-7703d8507269")
 	)
 	(gr_line
+		(start 134.1 93.85)
+		(end 134.55 93.85)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c61c143e-3d71-4f05-b247-18a619e25080")
+	)
+	(gr_line
+		(start 138.162054 83.817723)
+		(end 138.162054 85.7)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d580b509-d350-41dc-9264-a68af45e80fc")
+	)
+	(gr_line
+		(start 136.3 81.15)
+		(end 136.3 81.8)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e341ec9e-cb8e-4f92-b324-df7825ca0cfa")
+	)
+	(gr_line
 		(start 140.094361 83.817723)
-		(end 138.35 83.817723)
+		(end 138.162054 83.817723)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150861,28 +150901,8 @@
 		(uuid "e7bd1848-2785-4ad6-872e-968cc0b7107d")
 	)
 	(gr_line
-		(start 142.58 87.4)
-		(end 144.45 87.4)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "ec8cc15d-058a-495b-aead-9a3a908cd8c8")
-	)
-	(gr_line
-		(start 140.4 85.8)
-		(end 140.4 86.799503)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "ef79bffc-558d-4a43-86a8-23d5260f4843")
-	)
-	(gr_line
-		(start 128.8 94.4)
-		(end 128.8 96.35)
+		(start 128.85 94.4)
+		(end 128.85 96.6)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -150919,6 +150939,16 @@
 		)
 		(layer "F.SilkS")
 		(uuid "fde6d17f-8b83-4375-82a4-0e20d6d6ddb7")
+	)
+	(gr_line
+		(start 131.5 94.305)
+		(end 131.295 94.1)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fedc6a0f-83e6-462b-96fa-719c31c1232a")
 	)
 	(gr_rect
 		(start 120 80)
@@ -150957,7 +150987,7 @@
 		)
 	)
 	(gr_text "A"
-		(at 129.38 98.628883 0)
+		(at 129.55 98.628883 0)
 		(layer "F.SilkS")
 		(uuid "256d7710-db87-4915-be77-6f93ef22487a")
 		(effects
