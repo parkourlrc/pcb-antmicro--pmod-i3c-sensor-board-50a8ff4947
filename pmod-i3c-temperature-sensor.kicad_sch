@@ -7158,7 +7158,7 @@
 	)
 	(text "Line Driver"
 		(exclude_from_sim no)
-		(at 152.146 23.876 0)
+		(at 151.13 23.876 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7295,9 +7295,9 @@
 		)
 		(uuid "6201a571-5b8b-407f-a806-1abb90158d64")
 	)
-	(text "Discrete"
+	(text "Discrete Line Driver"
 		(exclude_from_sim no)
-		(at 153.416 153.416 0)
+		(at 143.256 153.162 0)
 		(effects
 			(font
 				(size 2.54 2.54)
