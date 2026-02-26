@@ -7194,7 +7194,7 @@
 	)
 	(text "Sensor 3"
 		(exclude_from_sim no)
-		(at 352.552 161.798 0)
+		(at 351.79 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7307,7 +7307,7 @@
 	)
 	(text "3-axis Accelerometer"
 		(exclude_from_sim no)
-		(at 356.87 107.442 0)
+		(at 356.87 103.124 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7330,7 +7330,7 @@
 	)
 	(text "Sensor 2"
 		(exclude_from_sim no)
-		(at 352.044 105.664 0)
+		(at 352.044 101.346 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7431,7 +7431,7 @@
 	)
 	(text "I2C 7-bit addr: 0x18"
 		(exclude_from_sim no)
-		(at 356.616 109.982 0)
+		(at 356.616 105.664 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7461,7 +7461,7 @@
 	)
 	(text " 3-axis Magnetic Sensor"
 		(exclude_from_sim no)
-		(at 357.632 163.576 0)
+		(at 356.87 159.258 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7497,7 +7497,7 @@
 	)
 	(text "I2C 7-bit addr: 0x30"
 		(exclude_from_sim no)
-		(at 357.378 166.116 0)
+		(at 356.616 161.798 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9499,6 +9499,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 124.46) (xy 398.78 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae734e10-a50a-4e57-896f-6398028b810f")
+	)
+	(wire
+		(pts
 			(xy 274.32 52.07) (xy 274.32 64.77)
 		)
 		(stroke
@@ -10216,6 +10226,16 @@
 			(type default)
 		)
 		(uuid "f0595c19-da3b-4511-9c7e-12cf952793ca")
+	)
+	(wire
+		(pts
+			(xy 373.38 124.46) (xy 383.54 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f11deee2-4850-4136-a7b8-bde6e4caa990")
 	)
 	(wire
 		(pts
@@ -12608,6 +12628,16 @@
 		)
 		(uuid "0fe9d074-c1da-49e5-8c7c-448b12a071a8")
 	)
+	(label "SEN2_VDD"
+		(at 373.38 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11781c47-50d8-4457-8b0d-94bdda1d5b30")
+	)
 	(label "SDA_EN{slash}PULL"
 		(at 120.65 193.04 0)
 		(effects
@@ -12617,6 +12647,16 @@
 			(justify left bottom)
 		)
 		(uuid "1753e6e0-8812-4ef1-906f-488229a7352f")
+	)
+	(label "SEN2_INT2"
+		(at 332.74 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "17fda242-7d44-4fbf-a734-58ffc8b77060")
 	)
 	(label "PMOD_3V3"
 		(at 53.34 219.71 180)
@@ -13068,16 +13108,6 @@
 		)
 		(uuid "a5332e7d-d808-4bf9-aac5-55f7227bcde6")
 	)
-	(label "SEN2_VDD"
-		(at 332.74 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a7d5e062-4828-45b2-89bd-825a44b3a434")
-	)
 	(label "SEN1_A2"
 		(at 339.09 74.93 0)
 		(effects
@@ -13137,6 +13167,16 @@
 			(justify left bottom)
 		)
 		(uuid "b948cd24-aee2-4248-9f7e-747786693981")
+	)
+	(label "SEN2_INT2"
+		(at 398.78 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bb9234ee-ad7d-440e-bbfb-1cbfc9bc7851")
 	)
 	(label "SDA"
 		(at 148.59 187.96 0)
@@ -17484,6 +17524,156 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroResistors0603:R_0R_0603")
+		(at 383.54 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3952604d-2f1d-447b-b86f-3f2ed35ab561")
+		(property "Reference" "R38"
+			(at 386.08 122.174 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "R_0R_0603"
+			(at 403.86 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:R_0603_1608Metric"
+			(at 403.86 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
+			(at 403.86 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zero Ohm Resistor, Jumper, 0603 [1608 Metric], Thick Film, 100 mW, 1 A, Surface Mount Device, CR"
+			(at 403.86 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0603-J/-000ELF"
+			(at 403.86 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 403.86 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 403.86 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 403.86 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Val" "0R"
+			(at 386.334 126.492 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "~"
+			(at 403.86 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Current" "1A"
+			(at 403.86 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d92d58b2-087c-4eb1-80c6-32d7b14b8f57")
+		)
+		(pin "2"
+			(uuid "edf35616-373c-4c8f-961a-0377690eeb6f")
+		)
+		(instances
+			(project "pmod-i3c-temperature-sensor"
+				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicropower:GND")
 		(at 381 229.87 0)
 		(unit 1)
@@ -18430,10 +18620,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "45b6dfbf-a80e-4eff-bb51-4fde7b47937a")
 		(property "Reference" "U4"
-			(at 365.76 121.92 0)
+			(at 355.346 108.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18498,7 +18687,7 @@
 			)
 		)
 		(property "MPN" "BMA580"
-			(at 365.76 124.46 0)
+			(at 353.568 111.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27945,10 +28134,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d3827ef9-ba77-41c4-9249-1234cf2882e1")
 		(property "Reference" "U5"
-			(at 364.49 176.53 0)
+			(at 355.092 165.608 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28002,7 +28190,7 @@
 			)
 		)
 		(property "MPN" "MMC5603NJ"
-			(at 364.49 179.07 0)
+			(at 351.282 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
