@@ -8748,6 +8748,19 @@
 		)
 		(uuid "031555cd-23b4-4e53-a6ca-2b9c5552e958")
 	)
+	(text "PWR LED indicators"
+		(exclude_from_sim no)
+		(at 43.434 213.106 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "11b22a2e-c4cf-402a-ae62-8eeecd09fe18")
+	)
 	(text "Sensor 3"
 		(exclude_from_sim no)
 		(at 352.044 155.194 0)
@@ -8923,18 +8936,6 @@
 		)
 		(uuid "a323251e-5bea-49e1-910b-5c6bfc886129")
 	)
-	(text "LDO"
-		(exclude_from_sim no)
-		(at 59.944 160.782 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left bottom)
-		)
-		(uuid "a39f7533-c55f-459f-a9af-bab9fd64e9e1")
-	)
 	(text "PMOD Connector"
 		(exclude_from_sim no)
 		(at 45.212 23.876 0)
@@ -8960,6 +8961,19 @@
 			(justify left bottom)
 		)
 		(uuid "ab23befe-a1ed-46f4-98e0-b375c6f55c08")
+	)
+	(text "LDO"
+		(exclude_from_sim no)
+		(at 57.912 161.29 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "ad720bcd-1ac8-46b4-b05d-544a6450410d")
 	)
 	(text "SCL HIGH-KEEPER"
 		(exclude_from_sim no)
@@ -9039,18 +9053,6 @@
 			)
 		)
 		(uuid "e15893bb-fc6c-4ab2-9003-61c7f1af5499")
-	)
-	(text "PWR LED indicators"
-		(exclude_from_sim no)
-		(at 52.324 215.138 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left bottom)
-		)
-		(uuid "faaac593-de42-4890-8258-40aeeffdbdf7")
 	)
 	(text_box " IN | EN | UP  | DOWN | OUTPUT\n X  | H  | H   | L    | Z\n X  | H  | L   | L    | PULL-UP 2K\n H  | L  | L   | L    | OPEN-DRAIN LOW\n H  | L  | H   | L    | PUSH-PULL LOW\n L  | L  | H   | L    | PUSH-PULL HIGH"
 		(exclude_from_sim no)
