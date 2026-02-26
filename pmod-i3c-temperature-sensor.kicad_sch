@@ -8850,7 +8850,7 @@
 	)
 	(text "Test Points"
 		(exclude_from_sim no)
-		(at 344.678 202.692 0)
+		(at 343.154 202.692 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -9390,6 +9390,16 @@
 	)
 	(wire
 		(pts
+			(xy 378.46 227.33) (xy 381 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bad0f87-581c-42af-9b46-1a7025db0e90")
+	)
+	(wire
+		(pts
 			(xy 49.53 59.69) (xy 49.53 58.42)
 		)
 		(stroke
@@ -9460,7 +9470,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 212.09) (xy 405.13 212.09)
+			(xy 378.46 222.25) (xy 389.89 222.25)
 		)
 		(stroke
 			(width 0)
@@ -9830,7 +9840,7 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 212.09) (xy 382.27 212.09)
+			(xy 327.66 228.6) (xy 334.01 228.6)
 		)
 		(stroke
 			(width 0)
@@ -9970,7 +9980,7 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 219.71) (xy 382.27 219.71)
+			(xy 353.06 228.6) (xy 359.41 228.6)
 		)
 		(stroke
 			(width 0)
@@ -10530,7 +10540,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 219.71) (xy 363.22 219.71)
+			(xy 353.06 226.06) (xy 365.76 226.06)
 		)
 		(stroke
 			(width 0)
@@ -10810,7 +10820,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 212.09) (xy 339.09 212.09)
+			(xy 327.66 223.52) (xy 340.36 223.52)
 		)
 		(stroke
 			(width 0)
@@ -10937,6 +10947,16 @@
 			(type default)
 		)
 		(uuid "a68d0dc5-dcd4-4238-b937-850898db860b")
+	)
+	(wire
+		(pts
+			(xy 381 229.87) (xy 381 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6979550-36e2-49ed-b5c3-2aebdb08e350")
 	)
 	(wire
 		(pts
@@ -11110,7 +11130,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 219.71) (xy 314.96 219.71)
+			(xy 353.06 220.98) (xy 356.87 220.98)
 		)
 		(stroke
 			(width 0)
@@ -11250,7 +11270,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 219.71) (xy 406.4 219.71)
+			(xy 378.46 224.79) (xy 391.16 224.79)
 		)
 		(stroke
 			(width 0)
@@ -11390,7 +11410,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 212.09) (xy 363.22 212.09)
+			(xy 327.66 226.06) (xy 340.36 226.06)
 		)
 		(stroke
 			(width 0)
@@ -11700,7 +11720,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 212.09) (xy 314.96 212.09)
+			(xy 327.66 220.98) (xy 331.47 220.98)
 		)
 		(stroke
 			(width 0)
@@ -11770,7 +11790,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 219.71) (xy 339.09 219.71)
+			(xy 353.06 223.52) (xy 365.76 223.52)
 		)
 		(stroke
 			(width 0)
@@ -14110,7 +14130,7 @@
 		(uuid "03678efd-56a0-469c-bd64-55bd15b217ca")
 	)
 	(label "LDO_OUTPUT"
-		(at 406.4 219.71 180)
+		(at 391.16 224.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14140,12 +14160,12 @@
 		(uuid "0c46ba11-5738-4852-a7f0-2a08f86baa76")
 	)
 	(label "SDA_IN{slash}PUSH"
-		(at 38.1 44.45 0)
+		(at 85.09 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "0fe9d074-c1da-49e5-8c7c-448b12a071a8")
 	)
@@ -14190,12 +14210,12 @@
 		(uuid "2487589d-fccb-4baf-b7ee-3658b2d2033b")
 	)
 	(label "SCL_IN{slash}PUSH"
-		(at 85.09 41.91 180)
+		(at 38.1 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "24d580f8-3f06-4d32-8208-428b1e0840a2")
 	)
@@ -14220,12 +14240,12 @@
 		(uuid "2bffae4f-214e-43ff-a402-fe82dccc4f07")
 	)
 	(label "SDA_UP"
-		(at 38.1 39.37 0)
+		(at 85.09 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "34a7caf4-46fb-4aa7-9866-449acd001948")
 	)
@@ -14330,12 +14350,12 @@
 		(uuid "5be7ec95-93dd-4c9f-861d-ba24ba41b6d1")
 	)
 	(label "SDA"
-		(at 38.1 46.99 0)
+		(at 85.09 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "5e57f6b3-06b6-459d-b656-d1c2f94ecc5d")
 	)
@@ -14390,7 +14410,7 @@
 		(uuid "6a7b9ad1-4228-420a-807f-1bf3f3999fcb")
 	)
 	(label "SDA"
-		(at 314.96 212.09 180)
+		(at 331.47 220.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14420,7 +14440,7 @@
 		(uuid "76446a51-76e7-4272-a331-7f60f6db4634")
 	)
 	(label "SCL_UP"
-		(at 382.27 219.71 180)
+		(at 359.41 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14430,7 +14450,7 @@
 		(uuid "76b7c592-e2a4-4ca0-931c-2d64b31a9962")
 	)
 	(label "SDA_IN{slash}PUSH"
-		(at 339.09 212.09 180)
+		(at 340.36 223.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14450,7 +14470,7 @@
 		(uuid "7aa1399d-c685-47f8-8e38-21fd65759bb0")
 	)
 	(label "SDA_UP"
-		(at 382.27 212.09 180)
+		(at 334.01 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14530,7 +14550,7 @@
 		(uuid "90bb8615-7c89-43cd-a44f-8361a7c502ee")
 	)
 	(label "PMOD_3V3"
-		(at 405.13 212.09 180)
+		(at 389.89 222.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14560,7 +14580,7 @@
 		(uuid "973c230d-c2cd-4e7f-a497-dca63c85b8c6")
 	)
 	(label "SCL_IN{slash}PUSH"
-		(at 339.09 219.71 180)
+		(at 365.76 223.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14580,12 +14600,12 @@
 		(uuid "9e8db8b4-8067-4333-a63b-71d772bc1cf2")
 	)
 	(label "SDA_EN{slash}PULL"
-		(at 38.1 41.91 0)
+		(at 85.09 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "a1256e00-fd26-4877-9e09-bd3ce2fc366d")
 	)
@@ -14730,12 +14750,12 @@
 		(uuid "c388181e-7dc4-476e-9ecc-35f1a322dcd6")
 	)
 	(label "SCL_EN{slash}PULL"
-		(at 85.09 44.45 180)
+		(at 38.1 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "c885a059-224e-439b-82cc-3b02d10ee524")
 	)
@@ -14760,7 +14780,7 @@
 		(uuid "d1a15e3d-ea9e-4c26-9161-7eb983a81b9f")
 	)
 	(label "SDA_EN{slash}PULL"
-		(at 363.22 212.09 180)
+		(at 340.36 226.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14780,7 +14800,7 @@
 		(uuid "d3e6fc65-e91d-48d6-85e8-f49ad0b744de")
 	)
 	(label "SCL"
-		(at 314.96 219.71 180)
+		(at 356.87 220.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14800,7 +14820,7 @@
 		(uuid "d665afd0-f6a1-4267-befa-d97b2db9b8da")
 	)
 	(label "SCL_EN{slash}PULL"
-		(at 363.22 219.71 180)
+		(at 365.76 226.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14840,12 +14860,12 @@
 		(uuid "ddd385fc-a719-49ae-8906-c688d3dea323")
 	)
 	(label "SCL"
-		(at 85.09 39.37 180)
+		(at 38.1 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "de6d6f6c-7510-4158-b7e7-f3c90c928b4b")
 	)
@@ -14890,12 +14910,12 @@
 		(uuid "f6313d44-f261-4c43-babc-36082d3a06bc")
 	)
 	(label "SCL_UP"
-		(at 85.09 46.99 180)
+		(at 38.1 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "fafc3248-71a4-4649-89cc-f132910d3b59")
 	)
@@ -16017,7 +16037,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 311.15 219.71 180)
+		(at 353.06 220.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -16025,7 +16045,7 @@
 		(dnp no)
 		(uuid "098d7dfc-2ed2-4e96-94e1-42894f2039d1")
 		(property "Reference" "TP6"
-			(at 305.054 219.71 0)
+			(at 346.964 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16034,7 +16054,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 295.91 212.09 0)
+			(at 337.82 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16045,7 +16065,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 295.91 209.55 0)
+			(at 337.82 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16056,7 +16076,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 207.01 0)
+			(at 335.28 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16067,7 +16087,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 295.91 199.39 0)
+			(at 337.82 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16077,7 +16097,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 311.15 219.71 0)
+			(at 353.06 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16086,7 +16106,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 311.15 219.71 0)
+			(at 353.06 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16095,7 +16115,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 295.91 204.47 0)
+			(at 337.82 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16106,7 +16126,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 295.91 201.93 0)
+			(at 337.82 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16586,7 +16606,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 393.7 212.09 180)
+		(at 378.46 222.25 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -16594,7 +16614,7 @@
 		(dnp no)
 		(uuid "162c6f49-da9d-4b23-969d-eb505469095f")
 		(property "Reference" "TP13"
-			(at 387.096 212.09 0)
+			(at 371.856 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16603,7 +16623,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 378.46 204.47 0)
+			(at 363.22 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16614,7 +16634,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 378.46 201.93 0)
+			(at 363.22 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16625,7 +16645,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 375.92 199.39 0)
+			(at 360.68 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16636,7 +16656,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 378.46 191.77 0)
+			(at 363.22 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16646,7 +16666,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 393.7 212.09 0)
+			(at 378.46 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16655,7 +16675,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 393.7 212.09 0)
+			(at 378.46 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16664,7 +16684,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 378.46 196.85 0)
+			(at 363.22 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16675,7 +16695,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 378.46 194.31 0)
+			(at 363.22 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17920,7 +17940,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 326.39 219.71 180)
+		(at 353.06 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -17928,7 +17948,7 @@
 		(dnp no)
 		(uuid "2b34d80b-f9d4-4fc7-bc09-88b0ddfd8ad0")
 		(property "Reference" "TP8"
-			(at 320.294 219.71 0)
+			(at 346.964 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17937,7 +17957,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 311.15 212.09 0)
+			(at 337.82 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17948,7 +17968,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 311.15 209.55 0)
+			(at 337.82 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17959,7 +17979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 207.01 0)
+			(at 335.28 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17970,7 +17990,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 311.15 199.39 0)
+			(at 337.82 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17980,7 +18000,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 326.39 219.71 0)
+			(at 353.06 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17989,7 +18009,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 326.39 219.71 0)
+			(at 353.06 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17998,7 +18018,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 311.15 204.47 0)
+			(at 337.82 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18009,7 +18029,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 311.15 201.93 0)
+			(at 337.82 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18941,6 +18961,103 @@
 			(project "pmod-i3c-temperature-sensor"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "antmicropower:GND")
+		(at 381 229.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39a61cef-62ed-41fb-ab83-ef758478622a")
+		(property "Reference" "#PWR037"
+			(at 389.89 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 381 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 389.89 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 389.89 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 389.89 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 389.89 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 389.89 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "585802df-10b2-4329-9fac-4dd619704276")
+		)
+		(instances
+			(project "pmod-i3c-temperature-sensor"
+				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -23682,7 +23799,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 375.92 219.71 180)
+		(at 353.06 228.6 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -23690,7 +23807,7 @@
 		(dnp no)
 		(uuid "7a5a46ed-b24f-4335-8b92-263b31c1ce24")
 		(property "Reference" "TP12"
-			(at 369.57 219.456 0)
+			(at 346.71 228.346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23699,7 +23816,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 360.68 212.09 0)
+			(at 337.82 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23710,7 +23827,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 360.68 209.55 0)
+			(at 337.82 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23721,7 +23838,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 358.14 207.01 0)
+			(at 335.28 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23732,7 +23849,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 360.68 199.39 0)
+			(at 337.82 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23742,7 +23859,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 375.92 219.71 0)
+			(at 353.06 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23751,7 +23868,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 375.92 219.71 0)
+			(at 353.06 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23760,7 +23877,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 360.68 204.47 0)
+			(at 337.82 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23771,7 +23888,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 360.68 201.93 0)
+			(at 337.82 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24295,7 +24412,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 375.92 212.09 180)
+		(at 327.66 228.6 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -24303,7 +24420,7 @@
 		(dnp no)
 		(uuid "80cfbb2f-5554-42c9-b7bc-44aa6260dd93")
 		(property "Reference" "TP11"
-			(at 369.57 211.836 0)
+			(at 321.31 228.346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24312,7 +24429,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 360.68 204.47 0)
+			(at 312.42 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24323,7 +24440,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 360.68 201.93 0)
+			(at 312.42 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24334,7 +24451,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 358.14 199.39 0)
+			(at 309.88 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24345,7 +24462,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 360.68 191.77 0)
+			(at 312.42 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24355,7 +24472,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 375.92 212.09 0)
+			(at 327.66 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24364,7 +24481,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 375.92 212.09 0)
+			(at 327.66 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24373,7 +24490,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 360.68 196.85 0)
+			(at 312.42 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24384,7 +24501,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 360.68 194.31 0)
+			(at 312.42 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25680,7 +25797,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 350.52 212.09 180)
+		(at 327.66 226.06 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -25688,7 +25805,7 @@
 		(dnp no)
 		(uuid "98da8b40-d614-4536-b2a8-5f010e95643d")
 		(property "Reference" "TP9"
-			(at 344.17 212.09 0)
+			(at 321.31 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25697,7 +25814,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 335.28 204.47 0)
+			(at 312.42 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25708,7 +25825,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 335.28 201.93 0)
+			(at 312.42 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25719,7 +25836,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 199.39 0)
+			(at 309.88 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25730,7 +25847,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 335.28 191.77 0)
+			(at 312.42 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25740,7 +25857,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 350.52 212.09 0)
+			(at 327.66 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25749,7 +25866,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 350.52 212.09 0)
+			(at 327.66 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25758,7 +25875,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 335.28 196.85 0)
+			(at 312.42 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25769,7 +25886,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 335.28 194.31 0)
+			(at 312.42 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25793,7 +25910,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 311.15 212.09 180)
+		(at 327.66 220.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -25801,7 +25918,7 @@
 		(dnp no)
 		(uuid "9b5fb366-037f-4850-9031-f3ad990d6387")
 		(property "Reference" "TP5"
-			(at 305.054 212.09 0)
+			(at 321.564 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25810,7 +25927,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 295.91 204.47 0)
+			(at 312.42 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25821,7 +25938,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 295.91 201.93 0)
+			(at 312.42 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25832,7 +25949,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 199.39 0)
+			(at 309.88 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25843,7 +25960,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 295.91 191.77 0)
+			(at 312.42 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25853,7 +25970,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 311.15 212.09 0)
+			(at 327.66 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25862,7 +25979,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 311.15 212.09 0)
+			(at 327.66 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25871,7 +25988,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 295.91 196.85 0)
+			(at 312.42 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25882,7 +25999,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 295.91 194.31 0)
+			(at 312.42 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26140,7 +26257,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 393.7 219.71 180)
+		(at 378.46 224.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -26148,7 +26265,7 @@
 		(dnp no)
 		(uuid "a5f38546-cec7-4e34-aac2-1429177065a8")
 		(property "Reference" "TP14"
-			(at 387.096 219.71 0)
+			(at 371.856 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26157,7 +26274,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 378.46 212.09 0)
+			(at 363.22 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26168,7 +26285,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 378.46 209.55 0)
+			(at 363.22 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26179,7 +26296,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 375.92 207.01 0)
+			(at 360.68 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26190,7 +26307,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 378.46 199.39 0)
+			(at 363.22 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26200,7 +26317,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 393.7 219.71 0)
+			(at 378.46 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26209,7 +26326,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 393.7 219.71 0)
+			(at 378.46 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26218,7 +26335,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 378.46 204.47 0)
+			(at 363.22 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26229,7 +26346,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 378.46 201.93 0)
+			(at 363.22 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27196,7 +27313,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 326.39 212.09 180)
+		(at 327.66 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -27204,7 +27321,7 @@
 		(dnp no)
 		(uuid "b51c66b7-b13e-414f-97ed-ef5130132144")
 		(property "Reference" "TP7"
-			(at 320.294 212.09 0)
+			(at 321.564 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27213,7 +27330,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 311.15 204.47 0)
+			(at 312.42 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27224,7 +27341,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 311.15 201.93 0)
+			(at 312.42 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27235,7 +27352,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 199.39 0)
+			(at 309.88 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27246,7 +27363,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 311.15 191.77 0)
+			(at 312.42 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27256,7 +27373,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 326.39 212.09 0)
+			(at 327.66 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27265,7 +27382,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 326.39 212.09 0)
+			(at 327.66 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27274,7 +27391,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 311.15 196.85 0)
+			(at 312.42 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27285,7 +27402,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 311.15 194.31 0)
+			(at 312.42 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27302,6 +27419,119 @@
 			(project "pmod-i3c-temperature-sensor"
 				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
 					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
+		(at 378.46 227.33 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8c35268-c5b9-4b3d-9e25-8a6ab53b4f25")
+		(property "Reference" "TP15"
+			(at 372.364 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 363.22 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
+			(at 363.22 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 360.68 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 363.22 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 378.46 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 378.46 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 363.22 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 363.22 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a162858-4b3f-426f-98d2-0e4ee6048973")
+		)
+		(instances
+			(project "pmod-i3c-temperature-sensor"
+				(path "/612c5d43-2e76-4008-b7aa-7a9340e5e5ba"
+					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -30205,7 +30435,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1.5mm_SMD")
-		(at 350.52 219.71 180)
+		(at 353.06 226.06 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -30213,7 +30443,7 @@
 		(dnp no)
 		(uuid "ebc64dc4-b1f1-4691-9512-9f7507977294")
 		(property "Reference" "TP10"
-			(at 344.17 219.71 0)
+			(at 346.71 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30222,7 +30452,7 @@
 			)
 		)
 		(property "Value" "TP_1.5mm_SMD"
-			(at 335.28 212.09 0)
+			(at 337.82 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30233,7 +30463,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1.5mm"
-			(at 335.28 209.55 0)
+			(at 337.82 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30244,7 +30474,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 207.01 0)
+			(at 335.28 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30255,7 +30485,7 @@
 			)
 		)
 		(property "Description" "test point, SMT"
-			(at 335.28 199.39 0)
+			(at 337.82 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30265,7 +30495,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 350.52 219.71 0)
+			(at 353.06 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30274,7 +30504,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 350.52 219.71 0)
+			(at 353.06 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30283,7 +30513,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 335.28 204.47 0)
+			(at 337.82 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30294,7 +30524,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 335.28 201.93 0)
+			(at 337.82 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
