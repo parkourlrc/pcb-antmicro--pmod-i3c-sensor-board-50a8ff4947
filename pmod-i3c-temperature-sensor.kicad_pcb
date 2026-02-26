@@ -634,67 +634,6 @@
 			)
 		)
 	)
-	(footprint ""
-		(layer "F.Cu")
-		(uuid "0291791d-e185-478d-a2b2-a44d98d9919e")
-		(at 142.3 90.375)
-		(property "Reference" ""
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(uuid "767191cb-1fa1-47b0-bce1-0e9a6fa7855f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "538f06f9-24aa-4284-a528-458d124dd7d9")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "978e6738-8abf-4fc8-a196-0580a5e22429")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9c7c4d5a-f605-48af-8a06-78b03262b7ef")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd circle
-			(at 0 0)
-			(size 0.75 0.75)
-			(layers "F.Cu" "F.Mask")
-			(net 35 "/SDA_DOWN")
-			(pinfunction "1")
-			(pintype "passive")
-			(uuid "2c5c9b5f-81ce-453a-bcde-74fa3780da9d")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "antmicro-footprints:F_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "0367976d-8281-4470-919b-5f77ed0619cd")
@@ -7159,7 +7098,7 @@
 	(footprint "antmicro-footprints:antmicro-logo_scaled_12mm"
 		(layer "F.Cu")
 		(uuid "03cd5e77-e348-4fd7-bf79-6f240010cab3")
-		(at 144.24 96.700055)
+		(at 145.704546 97.076798)
 		(property "Reference" "REF**"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
@@ -19799,6 +19738,172 @@
 				(xyz 90 0 0)
 			)
 		)
+	)
+	(footprint "antmicro-footprints:TP_SMD_0.75mm"
+		(layer "F.Cu")
+		(uuid "45a75195-e5a0-49a8-b033-369fde399af0")
+		(at 167.4 86.25)
+		(property "Reference" "TP4"
+			(at 0 -0.6 0)
+			(layer "F.SilkS")
+			(uuid "fb949008-c30b-4c8f-a2c8-90fb43a9f400")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TP_0.75mm_SMD"
+			(at 0 1.2 0)
+			(layer "F.Fab")
+			(uuid "59ddb4fa-22da-4d00-9cec-6747fa50ba13")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3f8eae6-baa7-4722-983f-4e1d2fd1bf6c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14cdd526-31ff-4882-ae90-4969b7e97d68")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45a46f49-7afb-4146-ba04-96503e11e394")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea250ad3-8cb2-47c3-bdfc-95813c88677a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b20aefae-f2d6-4baa-b975-d7035edf0c83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "968bb934-6762-42af-9fc2-8a3f61df9be9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/b8ecf0e6-105a-4336-8235-313efff8f418")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.475 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "629f4504-1898-4d7d-8a40-c0384869cf31")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.4 5.101 0)
+			(layer "F.Fab")
+			(uuid "20baa910-fe86-4ed3-98ed-d4479dab8c7a")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.4 3.901 0)
+			(layer "F.Fab")
+			(uuid "20be3184-4c08-41db-af3a-94c7b9b08f75")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.4 2.7 0)
+			(layer "F.Fab")
+			(uuid "bdb6c554-f966-4fe6-b67d-81dc1f31a8ac")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0)
+			(size 0.75 0.75)
+			(layers "F.Cu" "F.Mask")
+			(net 35 "/SDA_DOWN")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "fce2aaeb-78c8-465f-9f67-6fae4e2cc7a2")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -101954,6 +102059,172 @@
 			)
 		)
 	)
+	(footprint "antmicro-footprints:TP_SMD_0.75mm"
+		(layer "F.Cu")
+		(uuid "be78c692-52d5-46fc-9247-708b81d01d51")
+		(at 167.4 84.25)
+		(property "Reference" "TP2"
+			(at 0 -0.6 0)
+			(layer "F.SilkS")
+			(uuid "d9ae0c17-47cd-4ef6-813f-8d9359fd5ffb")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TP_0.75mm_SMD"
+			(at 0 1.2 0)
+			(layer "F.Fab")
+			(uuid "6c0bdebe-113f-48e2-b019-449e088d33be")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e951a36-88b8-4306-a783-237c4c31239a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3eca37cf-fcca-438b-bd2d-367f381af868")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f573ea8e-577f-4d69-8393-42f54a4632b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0e72938-0de7-46ef-b757-26a67f829893")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15e76cda-cf20-49ff-9866-f59b2e149ddc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a14de7ba-a320-4d7e-a8b1-f74d4d59974a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/3749ac7c-37ff-4fa9-99af-2ba5d9164bee")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.475 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "3edb5807-f911-4c1b-a8f6-bf6145aac2fe")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.4 5.101 0)
+			(layer "F.Fab")
+			(uuid "1a4434f5-d392-4068-9e98-874b24b2056d")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.4 3.901 0)
+			(layer "F.Fab")
+			(uuid "305f7141-7f78-4af3-b83b-c60e863480b8")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.4 2.7 0)
+			(layer "F.Fab")
+			(uuid "815e3841-898a-4106-9859-6f6ad859fa86")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0)
+			(size 0.75 0.75)
+			(layers "F.Cu" "F.Mask")
+			(net 43 "/SEN2_INT1")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "20553a19-5546-4caa-b253-403fc74508f9")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "antmicro-footprints:SOT-563"
 		(layer "F.Cu")
 		(uuid "c13dfb58-dd8a-4946-90ca-5615c23ac033")
@@ -150051,14 +150322,15 @@
 			)
 		)
 	)
-	(footprint "antmicro-footprints:TP_SMD_0.75mm"
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
 		(layer "B.Cu")
-		(uuid "580c6b82-45c9-4039-94b5-8d112438002a")
-		(at 142.3 90.375 180)
-		(property "Reference" "TP4"
-			(at -0.555977 0.43246 0)
+		(uuid "3698be9d-6a32-429f-9366-ad1b5a735bf7")
+		(at 137.214332 98.3 90)
+		(property "Reference" "TP12"
+			(at 0 0.9 90)
 			(layer "B.SilkS")
-			(uuid "11ec2c32-f12f-4436-95fb-e9140eaf8a3d")
+			(hide yes)
+			(uuid "dd1b1584-9e6c-45f3-95fb-7f41b3f7a56b")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -150067,10 +150339,875 @@
 				(justify right top mirror)
 			)
 		)
-		(property "Value" "TP_0.75mm_SMD"
-			(at 0 -1.2 0)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
 			(layer "B.Fab")
-			(uuid "dc0169d6-ab8f-4277-a48d-82c9910dedf0")
+			(uuid "501af367-2de3-417a-a230-05f078fc5ca9")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d40b2d03-f632-4ac2-84ad-31805fcb07cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0d8cabd-d616-4302-a935-649db0150f29")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5d379036-7223-4cf7-96fd-8b4ad9f084aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b569b51c-47f0-457e-88dd-7ec454c2fe6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "78ba08f6-8ac6-459e-a1ae-32a919f5261f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0d218776-b9cb-4141-b492-59e1a2f664c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/7a5a46ed-b24f-4335-8b92-263b31c1ce24")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "63ded675-ad0e-4549-bc2d-cf5d0a14b1da")
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "232c40e2-fb70-4f64-862c-5f960df84cac")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "5ab0cb73-c996-4ec2-aba7-86ec47098fa7")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "e3d82e50-b908-4d91-8469-711f8fac1201")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0 180)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 15 "/SCL_UP")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "e3ec0f8d-425a-4cc5-a9d4-9efe8a86e675")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "36a35183-57f7-4ebc-aebd-459d890fd724")
+		(at 134.920222 98.3 90)
+		(property "Reference" "TP14"
+			(at 0 0.9 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "4867bf8f-7a27-4c0a-9f6d-209d395ec666")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
+			(layer "B.Fab")
+			(uuid "0e4c9f95-5aaa-464c-b0bf-b6a092f5afeb")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a663ad7d-7358-4da6-825c-e09bc082d769")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "336bd1dc-2104-4fe3-86b9-e68939507c75")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f3f93a32-e77e-442c-ba18-2e044828f906")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9bf3f259-bf2b-4d0f-b543-8debe7391401")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fb395c07-4057-4997-99f0-6279c8c7fff4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ad014e54-a93b-44cd-9ff9-f65226135e86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/a5f38546-cec7-4e34-aac2-1429177065a8")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "2acb399e-3fa3-4268-b582-6436a294da69")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "5c0e00e4-73c1-4d0c-91fb-03e6c9ce574b")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "9c36466c-265a-4cd3-8771-f438af162424")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "b6e809fe-1d2e-4529-b7c9-5c59c6434c79")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 -4.595222)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 7 "/LDO_OUTPUT")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "d24e9aac-bcc0-451d-a4ad-edb07c88de23")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "3dec193d-6e5e-41c4-9f65-a60e898f017c")
+		(at 134.916721 98.3 90)
+		(property "Reference" "TP11"
+			(at 0 0.9 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "747dc105-eee4-4b9e-a134-776146e38a0f")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
+			(layer "B.Fab")
+			(uuid "444b1cbb-4d30-4c53-911e-8c23504a8e75")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01d1a1ce-96a1-4680-ae81-62e28ab133ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8996a43f-fbbf-4e11-9eea-0012af712d45")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fa9fb5f1-70cf-43ab-9751-5eb1da7dc639")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3fa0664a-dc19-4df5-9912-291e8cfb9cd2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a53adb0a-77d9-4d75-9600-5c83aa6073f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91dc6a8a-523c-4437-91bc-14ce47df275b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/80cfbb2f-5554-42c9-b7bc-44aa6260dd93")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "40258b0f-f0d8-4518-bff0-a99dee645550")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "163912d1-dc73-4603-9ac0-046cb2a820fe")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "688d8c6c-fb10-4d9d-8c0a-b40384f1c10f")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "b06525d2-2569-404c-a0fd-3d55f7135349")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0 180)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 14 "/SDA_UP")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "f1ee057f-2d12-431c-9070-dcc00ce731a1")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "4ec06a00-3303-4f42-a039-b2f7595f5f27")
+		(at 141.809555 98.3 90)
+		(property "Reference" "TP7"
+			(at 0 0.9 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "a330130e-0bd7-4edf-9345-41cac9068129")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
+			(layer "B.Fab")
+			(uuid "790e1ee8-b718-4601-81df-7cc257d4b8de")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db053ec1-d68a-4f1f-a9dd-011b823889cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5de90f1b-c061-45a7-ae11-fb808a4ae91c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cf91ece9-9fd1-4422-b151-1e2ce170f212")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b7a07808-2f65-4b30-b04a-0f855e07a53f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "44be6c37-b08b-4790-ae6b-2405d7212d6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f19c0243-4dfe-4754-a24a-87615c035de6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/b51c66b7-b13e-414f-97ed-ef5130132144")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "82e43569-be58-447b-96d7-f1aa4bf27d70")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "51571a15-7306-4d33-97bd-7e1e64ab416f")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "5cd21400-5bae-447c-abe5-42e27d9d720f")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "99f8745c-493a-49d3-8969-e5d9b505bef2")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0 180)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 18 "/SDA_IN{slash}PUSH")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "f9c9c928-edbc-49a5-830a-b1f1b36bd36f")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "6c486bba-0059-48f3-b02f-5bf502d855c5")
+		(at 130.321498 98.3 90)
+		(property "Reference" "TP13"
+			(at 0 0.9 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "e378c9ac-3c30-436a-b3d5-e2b80e26824a")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
+			(layer "B.Fab")
+			(uuid "08dec020-be3e-419c-a23e-b0323b231709")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fdd8f104-cf31-4418-96a1-d6c3d1ae6241")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9b169742-7d20-41ba-8f8f-a70d238be752")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "61bd2ac7-e1fa-4fac-ba5f-95eb60cd69af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "05c644cc-0940-43d0-a29e-080ceaaa60cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b561a61f-c254-4c0e-9410-22bceedefba3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40181ba4-0f92-4715-aca6-8c522b7f6af4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/162c6f49-da9d-4b23-969d-eb505469095f")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "256cc5a6-7046-4abe-86c0-c013de862364")
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "0f2ee8e7-e7ba-4c8d-b925-0b36ac390605")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "f9943759-8d64-44fc-998e-95b136279ba5")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "fd822200-e485-4f50-be11-515e8c8c673e")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 -2.297611)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 6 "/PMOD_3V3")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "49ebf70a-3592-4683-ad33-c99285d94b7b")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "8763b722-8859-4780-a896-1b22f3dbbe42")
+		(at 132.076113 101.1 180)
+		(property "Reference" "TP15"
+			(at 0 0.9 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "c87a82be-b5d6-4687-b816-f34f60cbd287")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify left bottom mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.7 0)
+			(layer "B.Fab")
+			(uuid "b863aa2c-cc49-4e01-b932-d6e719e0c6c3")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -150083,7 +151220,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d0999b54-a36d-48e8-9e3a-736b9417645c")
+			(uuid "ed421c7a-7730-4f1a-84d9-76017144b646")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -150092,11 +151229,11 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "SMT test point"
+		(property "Description" "test point, SMT"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0ab154b1-07b5-475b-b511-979079c53ee4")
+			(uuid "cee32e9e-0944-4e8f-95b0-f79f5bc6acf7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -150110,7 +151247,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d5b7feb9-a350-43b7-b7fd-1c558fbb73da")
+			(uuid "d86062c3-b886-4eba-ad93-34f154f2c178")
 			(effects
 				(font
 					(size 1 1)
@@ -150124,7 +151261,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "997d5da3-0f4f-4b01-80f9-a9b34c0b0d04")
+			(uuid "babea7e2-840a-4b31-ba9a-880f6527b138")
 			(effects
 				(font
 					(size 1 1)
@@ -150138,7 +151275,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "fc1aa581-9a6c-4732-ba90-88dde399834b")
+			(uuid "96c015f4-2bbd-4b1c-a4b6-592792096d13")
 			(effects
 				(font
 					(size 1 1)
@@ -150152,7 +151289,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c5191ee4-b22c-4efc-8477-366c181a5ad6")
+			(uuid "56d24b84-af35-4242-b17e-26400dd660a9")
 			(effects
 				(font
 					(size 1 1)
@@ -150161,25 +151298,25 @@
 				(justify mirror)
 			)
 		)
-		(path "/b8ecf0e6-105a-4336-8235-313efff8f418")
+		(path "/b8c35268-c5b9-4b3d-9e25-8a6ab53b4f25")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 0.475 0)
+			(end 0.85 0)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "14f9f6e2-79d9-4346-acaa-ccee79723446")
+			(uuid "f9269f6c-29fa-4bcd-ab8b-0e45d38b3c66")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.4 -2.7 0)
+			(at -0.7 -2.9 0)
 			(layer "B.Fab")
-			(uuid "18d96d7d-92a8-4e59-a6d4-7faae80aac8d")
+			(uuid "126c94c1-d3ab-4d7d-bc12-5c61f847097e")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -150189,9 +151326,9 @@
 			)
 		)
 		(fp_text user "Author: Antmicro"
-			(at -0.4 -3.901 0)
+			(at -0.7 -4.101 0)
 			(layer "B.Fab")
-			(uuid "24cf125f-a445-4964-b89a-483a9ebe178a")
+			(uuid "3b2b54ff-d0b6-4af8-9b63-95bf67e205ad")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -150201,9 +151338,9 @@
 			)
 		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.4 -5.101 0)
+			(at -0.7 -5.301 0)
 			(layer "B.Fab")
-			(uuid "ad9038a7-e4cb-4090-b8ee-d83fe83ccbea")
+			(uuid "d1ad35dd-23ee-40fc-904d-76fc506c3f95")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -150213,114 +151350,50 @@
 			)
 		)
 		(pad "1" smd circle
-			(at 0 0 180)
-			(size 0.75 0.75)
+			(at -0.523887 2.8 270)
+			(size 1.5 1.5)
 			(layers "B.Cu" "B.Mask")
-			(net 35 "/SDA_DOWN")
+			(net 1 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "80250b1b-8f10-4199-8d9e-f8745d2b3323")
+			(uuid "2c94fbdc-de25-4649-9676-175e3da5cac1")
 		)
 		(embedded_fonts no)
 	)
-	(footprint ""
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
 		(layer "B.Cu")
-		(uuid "6136544a-af84-43fa-8ab7-61538dd396e0")
-		(at 146.225 81.7 180)
-		(property "Reference" ""
-			(at 0 0 0)
+		(uuid "ac2270e6-1e44-4583-9409-b58bdccd9c41")
+		(at 151 98.3 90)
+		(property "Reference" "TP6"
+			(at 0 0.9 90)
 			(layer "B.SilkS")
-			(uuid "0d30ddcd-4147-4561-a896-b726a39ca385")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(layer "B.Fab")
-			(uuid "09fc5a08-4a92-48e7-ab9b-be16078d0b9a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "B.Fab")
 			(hide yes)
-			(uuid "6f34a3c2-627c-479a-837e-93890954b421")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "36c49712-7437-43ef-babd-1794b32ba2fb")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(pad "1" smd circle
-			(at 0 0 180)
-			(size 0.75 0.75)
-			(layers "B.Cu" "B.Mask")
-			(net 46 "/SEN1_~{ALERT}")
-			(pinfunction "1")
-			(pintype "passive")
-			(uuid "b763c773-cca5-4681-af52-f6f466d664eb")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "antmicro-footprints:TP_SMD_0.75mm"
-		(layer "B.Cu")
-		(uuid "db1e176d-5552-45f6-a54c-1ee0157b3e2a")
-		(at 150.207589 89.79196 180)
-		(property "Reference" "TP2"
-			(at 0.517411 -0.45804 0)
-			(layer "B.SilkS")
-			(uuid "9164f4f1-2317-4422-906b-914d78807119")
+			(uuid "acfa631b-259d-4481-b2e7-c137840ffef0")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
-		(property "Value" "TP_0.75mm_SMD"
-			(at 0 -1.2 0)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
 			(layer "B.Fab")
-			(uuid "975ad103-72df-43a3-a377-d1d50f454831")
+			(uuid "9f7ef053-4b4d-479d-9c52-d93220eb929c")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "19cec9b9-fc6b-40d5-976d-b69ad24c1641")
+			(uuid "3fcfde8c-ebbd-4785-8aac-92e8cc3aa04c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -150329,11 +151402,11 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "SMT test point"
-			(at 0 0 0)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a111acd5-e84e-4a36-aef1-2c57f4d9aea3")
+			(uuid "e250196f-d7d2-4fc6-8afc-55346fd768d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -150343,11 +151416,11 @@
 			)
 		)
 		(property "MPN" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "624a78c0-b83e-410f-a7a3-d3c72ac9fa66")
+			(uuid "f724fe13-930a-41d9-882e-28a22dd17833")
 			(effects
 				(font
 					(size 1 1)
@@ -150357,11 +151430,11 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4330519c-dce5-4bd4-be5a-c098cec71ba5")
+			(uuid "fa551e25-e9e7-4200-ab8e-2bbcd590b03e")
 			(effects
 				(font
 					(size 1 1)
@@ -150371,11 +151444,11 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1497f1c4-a794-4ed2-8d8a-860b965e548e")
+			(uuid "ac08de5f-acb3-4f9c-9f24-17b5b47cd269")
 			(effects
 				(font
 					(size 1 1)
@@ -150385,11 +151458,11 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "54725e3e-135f-4167-8aba-4d5b8304b89c")
+			(uuid "a180edf0-d305-4cbd-9ece-e776707b74ea")
 			(effects
 				(font
 					(size 1 1)
@@ -150398,101 +151471,448 @@
 				(justify mirror)
 			)
 		)
-		(path "/3749ac7c-37ff-4fa9-99af-2ba5d9164bee")
+		(path "/098d7dfc-2ed2-4e96-94e1-42894f2039d1")
 		(sheetname "/")
 		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 0.475 0)
+			(end 0.85 0)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "6f682adf-202d-4432-b4f6-2a732f114a79")
+			(uuid "f1d2f495-78ee-419c-98b7-5fe8c6cc52c0")
 		)
-		(fp_text user "Author: Antmicro"
-			(at -0.4 -3.901 0)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
 			(layer "B.Fab")
-			(uuid "12b3a334-cdd0-4bf5-a01e-cfadce5a4e8b")
+			(uuid "28c7c4df-8422-4c71-b2a0-9c501ab48f79")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "379b3bc0-8543-4676-aa36-f09c09644805")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.4 -2.7 0)
+			(at -0.7 -2.9 90)
 			(layer "B.Fab")
-			(uuid "81316332-8ca9-4499-9241-5d4fabffaf43")
+			(uuid "40032c77-8c13-4629-821b-6eb86f26fca0")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0 180)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 17 "/SCL")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "65346f58-0b85-4b22-95a5-b8091e758087")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "c05fe239-351b-4e90-8fbc-1b62b293f936")
+		(at 144.107166 98.3 90)
+		(property "Reference" "TP10"
+			(at 0 0.9 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "5198dfb4-3c2a-470b-85b8-22e5daaf7b5e")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
+			(layer "B.Fab")
+			(uuid "b1eddd72-1b79-45ca-a4ca-8f431c500f42")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "185dbe0f-274b-458f-9c74-b7c27d5652de")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b20b9568-227d-40bd-b83d-564c4ab7e8bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f8048763-c900-4b11-b9cb-fd1aefb93ce5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "00a98451-5276-469a-b3f6-d0c582206fed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ed097710-98a0-4fd0-94a6-308c591ce10f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8773b1a3-4cd1-4425-b90d-1c2aa083abbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/ebc64dc4-b1f1-4691-9512-9f7507977294")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "ccf6dc69-8251-4ea9-bdd9-3e346a5793e5")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "34ab4022-4fb6-452d-828d-2e1548e9ad45")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "40d7e99e-8049-4844-83f4-291df863da11")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "e1558f8a-de97-48a7-86a0-ce6883670c94")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0 180)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 21 "/SCL_EN{slash}PULL")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "85d618b3-c606-4336-bf1f-4f0ce37a2cc6")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "cea1f492-79f8-4c8b-9160-6ec6c3cd8a70")
+		(at 139.511943 98.3 90)
+		(property "Reference" "TP9"
+			(at 0 0.9 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "56136a47-f671-4063-80bd-34f29ade1b88")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
+			(layer "B.Fab")
+			(uuid "5f8cb7a8-8f23-48e1-a493-9787a3acd97b")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "17b1f3e1-03cb-44e8-b706-621a4d8620f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bbdd7b13-3b5a-49ee-b14a-8878661c3d16")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4c8713f3-1053-4007-9f29-ac461cc663fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e27cf2f4-4c72-4d44-8444-59a2bb1acde7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "610371d3-3523-43d8-af7c-3e6b8ede1738")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5e171ec2-e12d-4f0c-af90-4faaea4d9192")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/98da8b40-d614-4536-b2a8-5f010e95643d")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "c908c7cb-bb9d-4e0f-be1a-3ffea6b26d55")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "196b5749-65a7-4da4-90ee-7532e3e5fc8a")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "8046afd7-7488-48ef-9c5e-6c055acea80e")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
 			)
 		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.4 -5.101 0)
+			(at -0.7 -5.301 90)
 			(layer "B.Fab")
-			(uuid "a061136d-f1eb-4046-82d3-cf5682856693")
+			(uuid "e1904da0-873b-46eb-8ff2-a7f37f943430")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
 		(pad "1" smd circle
 			(at 0 0 180)
-			(size 0.75 0.75)
+			(size 1.5 1.5)
 			(layers "B.Cu" "B.Mask")
-			(net 43 "/SEN2_INT1")
+			(net 19 "/SDA_EN{slash}PULL")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5629a74b-1fa6-42ad-9e90-4e94a3748701")
+			(uuid "d16ad5c4-a180-459e-87d1-042dcd025096")
 		)
 		(embedded_fonts no)
 	)
-	(footprint ""
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
 		(layer "B.Cu")
-		(uuid "e8820db4-1188-4417-b3f6-e8ecfbd7d4ee")
-		(at 150.2 89.8 180)
-		(property "Reference" ""
-			(at 0 0 0)
+		(uuid "ef24e567-2146-4bba-89bf-a76525a3e328")
+		(at 148.702389 98.3 90)
+		(property "Reference" "TP5"
+			(at 0 0.9 90)
 			(layer "B.SilkS")
-			(uuid "c0c1497b-6964-47a9-bc1c-9a9b844b398c")
+			(hide yes)
+			(uuid "2ef10496-7057-47ae-89b1-f8b1e578a183")
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify mirror)
+				(justify right top mirror)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
 			(layer "B.Fab")
-			(uuid "20344313-7d0e-4738-82f3-bdb7a9d97bdd")
+			(uuid "70d380db-d448-498e-b654-fcf20bb024ae")
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify mirror)
+				(justify right top mirror)
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "83bc8f8c-35f2-4685-8b32-71a8e97becf5")
+			(uuid "6edba452-226a-4ccf-9490-92368f55600c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -150501,11 +151921,11 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5bb2985d-a507-4ed5-bd3e-f71600d653de")
+			(uuid "3480df1c-8cbf-4c19-842c-a58dd1d991de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -150514,79 +151934,294 @@
 				(justify mirror)
 			)
 		)
-		(pad "1" smd circle
-			(at 0 0)
-			(size 0.75 0.75)
-			(layers "F.Cu" "F.Mask")
-			(net 43 "/SEN2_INT1")
-			(pinfunction "1")
-			(pintype "passive")
-			(uuid "aa27d230-2101-4aef-ae70-ee7e919241a4")
-		)
-		(embedded_fonts no)
-	)
-	(footprint ""
-		(layer "B.Cu")
-		(uuid "f9514d3e-7868-44a9-be65-cb321f625bc5")
-		(at 140.75 86.35 180)
-		(property "Reference" ""
-			(at 0 0 0)
-			(layer "B.SilkS")
-			(uuid "4f02e2d3-d989-4260-9307-895af4d994fa")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(layer "B.Fab")
-			(uuid "198988a9-6429-4834-9117-a42b9d9df536")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0aa695dc-8e3f-4f28-9e08-573859d84980")
+			(uuid "526372ea-1173-46d5-89c6-703ca4eb0683")
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "294e2a74-376c-4e48-98c3-d1535190e6d3")
+			(uuid "ef315988-8c54-42ad-bc44-fb6fc694ffaf")
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4aa32019-0ca5-4267-a1be-9b4481c0e225")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ddb9cbf0-97d9-4ddd-b3f1-b12e7576545f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/9b5fb366-037f-4850-9031-f3ad990d6387")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "674c5ad6-1d70-415d-911e-1076b08871cb")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "4be4bb38-2642-4129-a488-8ca197ebc431")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "61e43d3d-5b6e-42d3-8ce7-c0c55bc8160a")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "76f2a2be-da12-42a3-a20b-1520bc47a786")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
 			)
 		)
 		(pad "1" smd circle
 			(at 0 0 180)
-			(size 0.75 0.75)
+			(size 1.5 1.5)
 			(layers "B.Cu" "B.Mask")
-			(net 34 "/SCL_DOWN")
+			(net 16 "/SDA")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "79bc008e-fa48-4bb3-9189-9790908224c0")
+			(uuid "ea13ef18-9ae3-4294-a153-2a1becde42fe")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "antmicro-footprints:TP_SMD_1.5mm"
+		(layer "B.Cu")
+		(uuid "f338490f-5362-4af4-b693-261945e75d59")
+		(at 146.404777 98.3 90)
+		(property "Reference" "TP8"
+			(at 0 0.9 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "c7abcbef-42d1-44e1-aafc-5524911cc01a")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Value" "TP_1.5mm_SMD"
+			(at 0 -1.700001 90)
+			(layer "B.Fab")
+			(uuid "6a0cd01f-d027-4ccf-8378-abe9da83fa4d")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "36a61fa9-be62-4dad-a31a-ee351f69d721")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "test point, SMT"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e28daa0f-ebfb-40a9-8a25-25dadd47e023")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ae7e0b59-5206-49ba-bb9b-cdb3c826509f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "efdf2db8-28e7-4e18-8d75-566f0684a49d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c69fea1-3539-4a4e-a6f6-d88a2f26c390")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7471f2a2-d9f3-4363-8b4e-2ebb7e54e088")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/2b34d80b-f9d4-4fc7-bc09-88b0ddfd8ad0")
+		(sheetname "/")
+		(sheetfile "pmod-i3c-temperature-sensor.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 0.85 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "B.CrtYd")
+			(uuid "f4573bf6-85c2-42a2-b584-22df1abcf295")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.7 -5.301 90)
+			(layer "B.Fab")
+			(uuid "04f45209-a7e5-4dd3-bfd7-c2f278651a76")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.7 -2.9 90)
+			(layer "B.Fab")
+			(uuid "37e7af21-f5b6-4bd1-833f-29e8c8b21aac")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.7 -4.101 90)
+			(layer "B.Fab")
+			(uuid "d7112a3b-b1ed-4363-aaab-174eca2701f2")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top mirror)
+			)
+		)
+		(pad "1" smd circle
+			(at 0 0 180)
+			(size 1.5 1.5)
+			(layers "B.Cu" "B.Mask")
+			(net 20 "/SCL_IN{slash}PUSH")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "26a0982c-9fe8-4fcc-b81b-459a163d7e2b")
 		)
 		(embedded_fonts no)
 	)
@@ -150963,7 +152598,7 @@
 		(uuid "38455ee2-e946-427b-ba61-c561cadb663d")
 	)
 	(gr_text "PMOD I3C TEMP BOARD\nRev. 1.0.0 02/2026"
-		(at 141.87 99.5 0)
+		(at 120.1 68.3 0)
 		(layer "F.Cu")
 		(uuid "5bb706e6-6a0e-4189-8357-ed63f71ce2eb")
 		(effects
@@ -150975,7 +152610,7 @@
 		)
 	)
 	(gr_text "PMOD I3C TEMP BOARD\nRev. 1.0.0 02/2026"
-		(at 141.87 99.5 0)
+		(at 120.6 71.05 0)
 		(layer "F.Mask")
 		(uuid "368b19c6-8b75-4478-9112-40143e48a769")
 		(effects
@@ -151032,6 +152667,149 @@
 				(thickness 0.15)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 132.6 95.9 270)
+		(layer "B.SilkS" knockout)
+		(uuid "0d124ba7-693c-4aba-9c8e-3370a57e3a7d")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SCL_IN/PUSH"
+		(at 146.4 93.4 270)
+		(layer "B.SilkS" knockout)
+		(uuid "1310e9b3-3e50-4603-8f2d-3dcc27dc7c6f")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SCL_UP"
+		(at 137.2 95 270)
+		(layer "B.SilkS" knockout)
+		(uuid "26f80c3a-ec06-40d9-b1a9-0c4d18e17db2")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "3V3"
+		(at 128.1 96 270)
+		(layer "B.SilkS" knockout)
+		(uuid "30f421df-5b6b-4e91-ab45-3e90a13acfc9")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SDA_UP"
+		(at 134.9 95 270)
+		(layer "B.SilkS" knockout)
+		(uuid "506dc215-a267-4c1f-95a6-dcde932e81c9")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SDA_EN/PULL"
+		(at 139.5 93.4 270)
+		(layer "B.SilkS" knockout)
+		(uuid "5350f5ce-dc1d-4b81-9635-da3ad06b5b28")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "LDO"
+		(at 130.325 96 270)
+		(layer "B.SilkS" knockout)
+		(uuid "54796243-c308-4511-aa0c-ceae40443eed")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SCL_EN/PUSH"
+		(at 144.2 93.3 270)
+		(layer "B.SilkS" knockout)
+		(uuid "61482c2d-c459-483b-bd0b-ee64ec51fef2")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SDA_IN/PUSH"
+		(at 141.8 93.4 270)
+		(layer "B.SilkS" knockout)
+		(uuid "66f72ede-7a05-42e3-9358-69b5dc3247f2")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SCL"
+		(at 151 96 270)
+		(layer "B.SilkS" knockout)
+		(uuid "af2bdd15-df2d-43e0-9316-4931a4a39968")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "SDA"
+		(at 148.702389 96 270)
+		(layer "B.SilkS" knockout)
+		(uuid "dc2b2766-34ac-4c0b-8c5d-bb3e4c5efa2f")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.175)
+				(bold yes)
+			)
+			(justify mirror)
 		)
 	)
 	(segment
@@ -151163,14 +152941,6 @@
 		(uuid "47c14288-aaca-48ee-a1ca-e32348ec2f15")
 	)
 	(segment
-		(start 128.25 95.1)
-		(end 128.25 94.6)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "48edb408-0682-41ee-aa73-f544903d9c3b")
-	)
-	(segment
 		(start 138.689361 84.287723)
 		(end 138.062277 84.287723)
 		(width 0.15)
@@ -151193,14 +152963,6 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "4f26c5aa-c706-41a5-99e8-d16184491427")
-	)
-	(segment
-		(start 128.25 94.575)
-		(end 128.975 94.575)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "508830f3-612a-4219-8471-56f1516a993c")
 	)
 	(segment
 		(start 149.33 90.405)
@@ -151235,28 +152997,12 @@
 		(uuid "68c39ad5-88d3-47d0-bc65-785477e44159")
 	)
 	(segment
-		(start 128.975 94.575)
-		(end 129.3 94.9)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "6a18b2bb-60e7-48cb-84dd-3628abbf2c94")
-	)
-	(segment
 		(start 130.587 92.702)
 		(end 129.670671 92.702)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
 		(uuid "706bf1a6-79b5-4ead-a480-ea99bf21957e")
-	)
-	(segment
-		(start 127.61 93.96)
-		(end 126.455 93.96)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "78312e06-5f9b-48fb-ba00-5354d958af1b")
 	)
 	(segment
 		(start 128.5 90.225)
@@ -151347,14 +153093,6 @@
 		(uuid "a19bb9cf-3b02-4369-a01c-5ef977e21622")
 	)
 	(segment
-		(start 134.9 98.415)
-		(end 135.51 98.415)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "a5c3a4aa-3598-47a6-8bab-e32a8cb7a6e0")
-	)
-	(segment
 		(start 149.130063 90.205063)
 		(end 149.33 90.405)
 		(width 0.15)
@@ -151393,14 +153131,6 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "b3e24020-472c-46ac-8961-f0c86a5e7808")
-	)
-	(segment
-		(start 135.51 98.415)
-		(end 135.525 98.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "b4516469-6472-447c-8cbe-de84f2629cb9")
 	)
 	(segment
 		(start 128.4 98.575)
@@ -151451,36 +153181,12 @@
 		(uuid "d9fa2720-b35d-4c4f-b4b9-a7781459f09f")
 	)
 	(segment
-		(start 130.775 92.175)
-		(end 130.775 92.89)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "df8547f0-dc5a-4dc5-93e7-25e3cd56a727")
-	)
-	(segment
 		(start 133.66 92.85)
 		(end 133.7 92.89)
 		(width 0.15)
 		(layer "F.Cu")
 		(net 1)
 		(uuid "e0e7dcf3-0cdf-4000-b4ba-1d841412d85b")
-	)
-	(segment
-		(start 128.25 94.6)
-		(end 127.61 93.96)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "eb031375-ee56-44cc-9393-4c331ed6c2f4")
-	)
-	(segment
-		(start 133.675 93.825)
-		(end 134.35 93.825)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "eb3467fe-c19d-4def-9e8e-bb3f6bffe0a5")
 	)
 	(segment
 		(start 134.015001 82.646415)
@@ -151539,14 +153245,6 @@
 		(uuid "05ac0540-9db5-4302-83de-4febf9f128e8")
 	)
 	(via
-		(at 128.25 94.575)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "0b248468-a89a-480a-8158-e1ded957c773")
-	)
-	(via
 		(at 141.225 90.05)
 		(size 0.45)
 		(drill 0.1)
@@ -151563,14 +153261,6 @@
 		(uuid "0f21addd-50c3-4e88-84fe-b87bfe263043")
 	)
 	(via
-		(at 130.775 92.175)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "2327fc07-8011-4dd2-a4ec-d013c2cb36d5")
-	)
-	(via
 		(at 130.05 88.5)
 		(size 0.45)
 		(drill 0.1)
@@ -151579,36 +153269,12 @@
 		(uuid "3347c616-91cd-4877-9aed-1175f9b3f2f6")
 	)
 	(via
-		(at 128.4 98.575)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "3ea0eeff-abf1-413e-9c0f-465c0687b718")
-	)
-	(via
 		(at 135.175 86.45)
 		(size 0.45)
 		(drill 0.1)
 		(layers "F.Cu" "B.Cu")
 		(net 1)
 		(uuid "64cfb6e7-2d63-42b4-b465-d1bbf42bdaf0")
-	)
-	(via
-		(at 135.525 98.4)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "668d4c9c-cf82-432f-9c6d-5dc2283567c4")
-	)
-	(via
-		(at 131.65 98.625)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "6f9baff3-1546-440d-a80b-c203ddcb84f7")
 	)
 	(via
 		(at 132.55 91.375)
@@ -151705,14 +153371,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net 1)
 		(uuid "de73cb7e-389c-4155-8fb4-1031adc8dcbd")
-	)
-	(via
-		(at 134.35 93.825)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "e0173963-6273-4057-b85d-4529ac5ab040")
 	)
 	(via
 		(at 145.4 85.057)
@@ -152051,14 +153709,6 @@
 		(uuid "23171181-08ac-4a5e-8655-d7dbd538044b")
 	)
 	(segment
-		(start 134.865 95.265)
-		(end 134.865 94.585)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "24da0189-a244-452d-bb87-4a7cd52e0171")
-	)
-	(segment
 		(start 136.200521 88.675521)
 		(end 135.875 88.35)
 		(width 0.15)
@@ -152073,14 +153723,6 @@
 		(layer "F.Cu")
 		(net 4)
 		(uuid "2c9281fc-6bcb-4ed3-918c-969368659b4e")
-	)
-	(segment
-		(start 134.865 95.265)
-		(end 135.56 95.265)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "40b011ea-9e4e-401d-9288-c983600d3049")
 	)
 	(segment
 		(start 138.125 80.775)
@@ -152115,14 +153757,6 @@
 		(uuid "5641ec16-698e-4c76-9c61-2f3ae421de9c")
 	)
 	(segment
-		(start 135.56 95.265)
-		(end 135.575 95.25)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "5c8c2a51-abb1-47b9-97dc-eb275ee03951")
-	)
-	(segment
 		(start 138.125 80.775)
 		(end 138.125 81.110265)
 		(width 0.15)
@@ -152137,14 +153771,6 @@
 		(layer "F.Cu")
 		(net 4)
 		(uuid "63e30d5b-8542-4078-af99-a4901a2cbbaf")
-	)
-	(segment
-		(start 134.865 94.585)
-		(end 134.875 94.575)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "770bce4a-5628-426b-bd78-6ab1cfd62cec")
 	)
 	(segment
 		(start 138.175 80.825)
@@ -152187,14 +153813,6 @@
 		(uuid "9afc67f1-f666-47a7-a219-fcbf668ac1e6")
 	)
 	(segment
-		(start 134.89 96.315)
-		(end 135.585 96.315)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "9cd284ee-7ec9-4f2f-9750-b2943572e43a")
-	)
-	(segment
 		(start 131.044 88.925801)
 		(end 131.044 89.582605)
 		(width 0.2)
@@ -152217,14 +153835,6 @@
 		(layer "F.Cu")
 		(net 4)
 		(uuid "b5ce366c-7291-40ec-b8e5-73e693e65d4b")
-	)
-	(segment
-		(start 135.585 96.315)
-		(end 135.6 96.3)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "b67d8162-35c5-46bc-9a5a-93d95e0a7b22")
 	)
 	(segment
 		(start 133.75 84.55)
@@ -152307,28 +153917,12 @@
 		(uuid "4d658eba-3413-4d11-95fc-b8b1347121f0")
 	)
 	(via
-		(at 135.575 95.25)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 4)
-		(uuid "4e4d96a2-6a90-48fb-aca3-7caa938f91f9")
-	)
-	(via
 		(at 136.3 85.55)
 		(size 0.45)
 		(drill 0.1)
 		(layers "F.Cu" "B.Cu")
 		(net 4)
 		(uuid "5622a76c-e1f5-4661-a36a-1a7d46018845")
-	)
-	(via
-		(at 135.6 96.3)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 4)
-		(uuid "6351b04b-ca7e-4fc4-82db-cf4c55246ad5")
 	)
 	(via
 		(at 138.125 80.775)
@@ -152393,14 +153987,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net 4)
 		(uuid "e86f65b8-3a8c-4053-94f0-6cec9aa75b7e")
-	)
-	(via
-		(at 134.875 94.575)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 4)
-		(uuid "f04e539b-75a9-4efa-a156-927690513f1c")
 	)
 	(via
 		(at 135.75 81.075)
@@ -152603,14 +154189,6 @@
 		(uuid "d5770fd5-fd69-44e4-9b92-651cc257bf11")
 	)
 	(segment
-		(start 127.7 96.5)
-		(end 128.25 96.5)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 6)
-		(uuid "d725c876-2be8-4fe1-b57d-2d78da2f868b")
-	)
-	(segment
 		(start 129.3 96.5)
 		(end 130.4 96.5)
 		(width 0.4)
@@ -152795,28 +154373,12 @@
 		(uuid "b92904e2-c1a2-410f-9cb1-9ae33918476f")
 	)
 	(segment
-		(start 128.368671 93.2)
-		(end 127.675 93.2)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 9)
-		(uuid "6b669c3b-d1d2-4669-90e2-51f4b863eb7e")
-	)
-	(segment
 		(start 123.6 99.2)
 		(end 122.85 99.2)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 9)
 		(uuid "cff0077b-a17d-456a-993e-9c5cabf580d7")
-	)
-	(via
-		(at 127.675 93.2)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 9)
-		(uuid "15f69182-efa5-488b-a28a-75efa7d06e1f")
 	)
 	(via
 		(at 122.85 99.2)
@@ -152827,44 +154389,12 @@
 		(uuid "d6872681-66ee-4b91-82ac-2183c42ebbca")
 	)
 	(segment
-		(start 128.25 93.2)
-		(end 129.2 94.15)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "1453aaf9-0f92-463c-88e9-f08ce8e81920")
-	)
-	(segment
-		(start 129.2 94.15)
-		(end 129.2 96)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "16ed0025-f97e-4c9c-a942-2f0aec90a41e")
-	)
-	(segment
-		(start 129.2 96)
-		(end 126 99.2)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "5fa12eaa-48e2-46e8-b9c2-0091ed68d34e")
-	)
-	(segment
-		(start 126 99.2)
+		(start 125.7 99.2)
 		(end 122.85 99.2)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 9)
-		(uuid "6e9dc07a-925e-4b0b-b1e3-f935a8980487")
-	)
-	(segment
-		(start 127.675 93.2)
-		(end 128.25 93.2)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "6f97aa67-a94a-4f7f-8d80-37e2cb392c4e")
+		(uuid "42613f5f-a0c5-4ad4-8504-e7bbea9f38f3")
 	)
 	(segment
 		(start 126.035448 99.2)
@@ -155802,14 +157332,6 @@
 		(net 35)
 		(uuid "eb1e8831-dccf-4080-b4dd-8c75c5dd5b81")
 	)
-	(via
-		(at 142.3 90.375)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 35)
-		(uuid "c4af93e7-5a5b-4781-92dc-e234b8c3e55f")
-	)
 	(segment
 		(start 146.24 85.75)
 		(end 147.4 85.75)
@@ -155985,14 +157507,6 @@
 		(layer "F.Cu")
 		(net 43)
 		(uuid "9f024fe2-a151-42ff-8c59-20e6da05a3f1")
-	)
-	(via
-		(at 150.2 89.8)
-		(size 0.45)
-		(drill 0.1)
-		(layers "F.Cu" "B.Cu")
-		(net 43)
-		(uuid "bb0efd19-76d5-4dd7-bccc-541c77d302e0")
 	)
 	(segment
 		(start 147.52844 93.67844)
