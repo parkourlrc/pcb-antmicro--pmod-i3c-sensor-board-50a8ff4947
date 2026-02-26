@@ -10030,16 +10030,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 130.81) (xy 55.88 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ce978a4-9020-46f3-8208-0dc94a6badd6")
-	)
-	(wire
-		(pts
 			(xy 267.97 59.69) (xy 264.16 59.69)
 		)
 		(stroke
@@ -10090,7 +10080,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 137.16) (xy 50.8 137.16)
+			(xy 45.72 144.78) (xy 63.5 144.78)
 		)
 		(stroke
 			(width 0)
@@ -10750,16 +10740,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 139.7) (xy 63.5 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91d8bc5f-768d-4864-a47c-de3391092627")
-	)
-	(wire
-		(pts
 			(xy 135.89 90.17) (xy 151.13 90.17)
 		)
 		(stroke
@@ -10967,16 +10947,6 @@
 			(type default)
 		)
 		(uuid "a6dbf0cd-8781-41be-9e0f-ba3cba88698a")
-	)
-	(wire
-		(pts
-			(xy 50.8 137.16) (xy 50.8 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a81ad65a-d2d1-4c0d-baea-253400d8eae4")
 	)
 	(wire
 		(pts
@@ -11280,16 +11250,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 144.78) (xy 63.5 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bea0fcf9-fc45-4c38-a1a2-707bc2792b35")
-	)
-	(wire
-		(pts
 			(xy 39.37 77.47) (xy 53.34 77.47)
 		)
 		(stroke
@@ -11420,7 +11380,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 130.81) (xy 49.53 130.81)
+			(xy 45.72 139.7) (xy 63.5 139.7)
 		)
 		(stroke
 			(width 0)
@@ -14250,7 +14210,7 @@
 		(uuid "34a7caf4-46fb-4aa7-9866-449acd001948")
 	)
 	(label "LDO_OUTPUT"
-		(at 40.64 137.16 0)
+		(at 45.72 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14360,7 +14320,7 @@
 		(uuid "5e57f6b3-06b6-459d-b656-d1c2f94ecc5d")
 	)
 	(label "PMOD_3V3"
-		(at 49.53 130.81 0)
+		(at 45.72 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
