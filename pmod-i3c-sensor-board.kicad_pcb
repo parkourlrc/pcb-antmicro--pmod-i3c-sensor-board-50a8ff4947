@@ -152502,6 +152502,18 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "PMOD I3C Sensor Board"
+		(at 152.1 82 0)
+		(layer "B.SilkS")
+		(uuid "3fb6041a-892c-4582-ad9a-8e3fdc330e1f")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "SDA_UP"
 		(at 133.6 95.4 270)
 		(layer "B.SilkS" knockout)
@@ -152568,7 +152580,7 @@
 		)
 	)
 	(gr_text "SHA: ########"
-		(at 152.25 81.8 -0)
+		(at 152.15 84.25 -0)
 		(layer "B.SilkS")
 		(uuid "8b141fab-6309-454f-86b6-b7b10b8598b2")
 		(effects
@@ -152603,6 +152615,18 @@
 				(bold yes)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "Rev. 1.0.0 02/2026"
+		(at 152.1 83.05 0)
+		(layer "B.SilkS")
+		(uuid "efca54b6-3321-473e-8dac-2309532a0b74")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
