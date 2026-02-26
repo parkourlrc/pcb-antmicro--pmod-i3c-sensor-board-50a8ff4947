@@ -7182,9 +7182,19 @@
 		)
 		(uuid "11b22a2e-c4cf-402a-ae62-8eeecd09fe18")
 	)
+	(text "Temperature Sensor"
+		(exclude_from_sim no)
+		(at 356.87 30.734 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "19cd6038-4f67-460f-98ec-07223583ef18")
+	)
 	(text "Sensor 3"
 		(exclude_from_sim no)
-		(at 352.044 155.194 0)
+		(at 352.552 161.798 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7245,9 +7255,9 @@
 		)
 		(uuid "3c71f433-3c34-4a3c-9ecc-8fa14a9e45f5")
 	)
-	(text "I3C Temperature Sensors"
+	(text "I3C Sensors"
 		(exclude_from_sim no)
-		(at 331.978 22.606 0)
+		(at 345.186 22.86 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7295,6 +7305,16 @@
 		)
 		(uuid "6201a571-5b8b-407f-a806-1abb90158d64")
 	)
+	(text "3-axis Accelerometer"
+		(exclude_from_sim no)
+		(at 356.87 107.442 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6ee92d64-d00f-4cbc-b434-6c345c35375f")
+	)
 	(text "Discrete Line Driver"
 		(exclude_from_sim no)
 		(at 143.256 153.162 0)
@@ -7310,7 +7330,7 @@
 	)
 	(text "Sensor 2"
 		(exclude_from_sim no)
-		(at 352.806 99.568 0)
+		(at 352.044 105.664 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7411,7 +7431,7 @@
 	)
 	(text "I2C 7-bit addr: 0x18"
 		(exclude_from_sim no)
-		(at 357.124 101.854 0)
+		(at 356.616 109.982 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7421,7 +7441,7 @@
 	)
 	(text "I2C 7-bit addr: 0x48"
 		(exclude_from_sim no)
-		(at 356.87 31.496 0)
+		(at 357.124 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7439,9 +7459,19 @@
 		)
 		(uuid "d30f2a5a-3234-479b-aa22-80c5dc48cf3b")
 	)
+	(text " 3-axis Magnetic Sensor"
+		(exclude_from_sim no)
+		(at 357.632 163.576 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d312b556-42ea-4f7c-9b97-ee6256637ebe")
+	)
 	(text "Sensor 1"
 		(exclude_from_sim no)
-		(at 352.552 29.464 0)
+		(at 352.552 29.718 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7467,7 +7497,7 @@
 	)
 	(text "I2C 7-bit addr: 0x30"
 		(exclude_from_sim no)
-		(at 356.362 157.226 0)
+		(at 357.378 166.116 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9963,7 +9993,7 @@
 		)
 		(stroke
 			(width 0)
-			(type dash)
+			(type solid)
 		)
 		(uuid "e1aab49c-99e4-4c14-84d7-521cbe03da3d")
 	)
