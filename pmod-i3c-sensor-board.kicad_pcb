@@ -7077,12 +7077,12 @@
 	(footprint "antmicro-footprints:antmicro-logo_scaled_12mm"
 		(layer "F.Cu")
 		(uuid "03cd5e77-e348-4fd7-bf79-6f240010cab3")
-		(at 145.704546 97.09)
+		(at 145.5 96.7)
 		(property "Reference" "REF**"
 			(at 0 -1.5 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b2651d60-34ba-4234-aaf8-0bad122a41eb")
+			(uuid "da390b4e-4651-4b10-a6f5-ead332d1df76")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -7095,7 +7095,7 @@
 			(at 0 2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "92d7fd78-d803-4043-b5c9-6e118ee74007")
+			(uuid "61044393-817a-4535-8d3b-e7ac410691f5")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -7108,7 +7108,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a47e1e1a-e128-4d4d-86e4-86e78537b2b1")
+			(uuid "5f91878f-765c-49e9-873e-783555b421b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7120,7 +7120,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc0a8e32-3d84-4543-b91f-f967c73dda1f")
+			(uuid "ed7c8654-1da0-4d0d-a6c5-71a7d88410d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -153458,6 +153458,32 @@
 		(layer "Edge.Cuts")
 		(uuid "38455ee2-e946-427b-ba61-c561cadb663d")
 	)
+	(gr_text "PMOD I3C \nSensor Board"
+		(at 143.25 98.8 0)
+		(layer "F.Cu")
+		(uuid "29e1b0f8-3f72-482f-a9ba-889e82c0e248")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "PMOD I3C \nSensor Board"
+		(at 143.25 98.8 0)
+		(layer "F.Mask")
+		(uuid "c6ec402f-65dd-46a5-868e-612240519cc9")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "Voltage\nSelector"
 		(at 134.6 95.1 0)
 		(layer "F.SilkS" knockout)
@@ -153631,7 +153657,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "PMOD I3C Sensor Board\nRev. 1.0.0 02/2026"
+	(gr_text "PMOD I3C Sensor Board\nRev. 1.0.0 04/2026"
 		(at 150.94 84.825 0)
 		(layer "B.SilkS")
 		(uuid "3fb6041a-892c-4582-ad9a-8e3fdc330e1f")
