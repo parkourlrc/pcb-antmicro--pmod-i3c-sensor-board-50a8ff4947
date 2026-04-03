@@ -7,7 +7,7 @@ Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
 ## Overview
 
 This project contains open hardware PCB design files for a simple expansion board with three environmental sensors connected to a common I3C bus. 
-This expansion board's pinout is electrically compatible with Digilend PMOD (Peripheral Module) which allows using it with various development platforms.
+This expansion board's pinout is electrically compatible with Digilent PMOD (Peripheral Module) which allows using it with various development platforms.
 Additionally, the board is equipped with two push-pull digital output drivers composed of discrete MOSFETs.
 This allows using the board with FPGA-driven systems to implement I3C output stage drivers which can act as open drain or push-pull.
 The driver topology is switchable via digital control signals from the FPGA side.
