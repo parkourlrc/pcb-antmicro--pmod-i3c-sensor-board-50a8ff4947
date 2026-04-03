@@ -17,9 +17,9 @@ The PCB design files were prepared in KiCad 9.x.
 
 ## Key features
 
-* [P3T1755DP/Q900Z](https://www.nxp.com/part/P3T1755DP~~Q900) - Temperature Sensor 
-* [MMC5603NJ](https://www.memsic.com/Public/Uploads/uploadfile/files/20220119/MMC5603NJDatasheetRev.B.pdf) - 3-axis Magnetic Sensor 
-* [BMA580](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bma580-ds000.pdf) - 3-axis Accelerometer 
+* [P3T1755DP/Q900Z](https://www.nxp.com/part/P3T1755DP~~Q900) - temperature sensor 
+* [MMC5603NJ](https://www.memsic.com/Public/Uploads/uploadfile/files/20220119/MMC5603NJDatasheetRev.B.pdf) - 3-axis magnetic sensor 
+* [BMA580](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bma580-ds000.pdf) - 3-axis accelerometer 
 * All sensors support I2C/I3C interfaces
 * Two independent digital output stages configurable as push-pull or open drain
 * Switchable pull-up and pull-down resistors
